@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Benjamin Geer</title>
+    <link>https://benjamingeer.name/event/</link>
+      <atom:link href="https://benjamingeer.name/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2015 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benjamingeer.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://benjamingeer.name/event/</link>
+    </image>
+    
+    <item>
+      <title>Knora: A Generic Storage System and API for Accessing and Reusing Digital Qualitative Research Data in the Humanities</title>
+      <link>https://benjamingeer.name/talk/knora-a-generic-storage-system-and-api-for-accessing-and-reusing-digital-qualitative-research-data-in-the-humanities/</link>
+      <pubDate>Thu, 17 Sep 2015 13:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/talk/knora-a-generic-storage-system-and-api-for-accessing-and-reusing-digital-qualitative-research-data-in-the-humanities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
