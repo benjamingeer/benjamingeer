@@ -31,6 +31,9 @@ feature:
 - icon: rdf
   icon_pack: custom
   name: RDF
+- icon: linux
+  icon_pack: fab
+  name: Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
