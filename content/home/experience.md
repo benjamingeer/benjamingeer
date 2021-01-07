@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: '2006'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -58,4 +58,11 @@ experience:
     date_start: '2000-08-01'
     date_end: '2005-05-01'
     description: Lead a team of 6 to develop Meridian (now [Fusion Total Messaging](https://www.finastra.com/solutions/transaction-banking/financial-messaging-services/fusion-total-messaging)), a Java middleware program used by banks worldwide to connect back-office applications with the [SWIFT](https://www.swift.com/) payments network.
+    
+  - title: Software Developer
+    company: Think New Ideas
+    location: New York
+    date_start: '1998-01-01'
+    date_end: '1999-01-01'
+    description: Developed a Java-based content management system, including the [FreeMarker](https://freemarker.apache.org) template engine.
 ---
