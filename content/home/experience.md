@@ -29,11 +29,13 @@ experience:
     date_start: '2014-02-01'
     date_end: ''
     description: |2-
-        * Lead developer of [Knora](https://www.knora.org/), Switzerland's flagship system for storing,
-          editing, searching, and linking humanities research data (over 130,000 lines of Scala and 18,000 lines of SPARQL).
+        * Lead developer of [Knora](https://www.knora.org/), Switzerland's flagship system for
+        editing, storing, searching, and reusing humanities research data.
+        Design and implementation from scratch in Scala (130,000 lines of code) with Akka and
+        an RDF triplestore.
           
-        * Lead developer of [Gravsearch](http://dx.doi.org/10.3233/SW-200386), Knora's innovative
-          SPARQL-based query language compiler with type inference and optimisation.
+        * Lead developer of [Gravsearch](http://dx.doi.org/10.3233/SW-200386), an innovative
+        SPARQL-based query language compiler with type inference and optimisation.
           
         * Contributed to [Sipi](https://sipi.io/), a IIIF-conformant image server written in C++.
         
@@ -42,7 +44,7 @@ experience:
     company_url: 'https://mei.nus.edu.sg/'
     location: Singapore
     date_start: '2012-08-01'
-    date_end: '2013-06-01'
+    date_end: '2013-07-01'
 
   - title: Visiting Assistant Professor and Associate Director
     company: Middle East Studies Center, American University in Cairo
