@@ -37,7 +37,7 @@ education:
   - course: M.A. in French
     institution: University of Florida
     year: 1995
-  - course: B.A. in Music
+  - course: B.A. in Liberal Arts
     institution: Hampshire College
     year: 1991
 
