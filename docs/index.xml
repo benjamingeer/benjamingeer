@@ -5,7 +5,7 @@
     <link>https://benjamingeer.name/</link>
       <atom:link href="https://benjamingeer.name/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Geer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benjamingeer.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Benjamin Geer</title>
@@ -13,35 +13,82 @@
     </image>
     
     <item>
-      <title>Knora</title>
-      <link>https://benjamingeer.name/project/knora/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://benjamingeer.name/project/knora/</guid>
-      <description>&lt;p&gt;A Knora repository is a place for doing research. Knora can store texts, images, audio and video recordings, metadata, annotations, text markup, and any other data created by humanities research. It is designed for long-term preservation, and at the same time it provides powerful tools for searching, annotating, extending, linking, sharing, and reusing data.&lt;/p&gt;
-</description>
+      <title>Tondauer</title>
+      <link>https://benjamingeer.name/project/tondauer/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/project/tondauer/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Gravsearch: Transforming SPARQL to query humanities data</title>
       <link>https://benjamingeer.name/publication/gravsearch/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://benjamingeer.name/publication/gravsearch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Simple Image Presentation Interface (SIPI): An IIIF-based Image Server</title>
-      <link>https://benjamingeer.name/publication/sipi/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://benjamingeer.name/publication/sipi/</guid>
+      <title>Training Scholars to Study Non-Scholarly Life</title>
+      <link>https://benjamingeer.name/publication/training/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/publication/training/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Knora: A Generic Storage System and API for Accessing and Reusing Digital Qualitative Research Data in the Humanities</title>
-      <link>https://benjamingeer.name/talk/knora-a-generic-storage-system-and-api-for-accessing-and-reusing-digital-qualitative-research-data-in-the-humanities/</link>
-      <pubDate>Thu, 17 Sep 2015 13:00:00 +0000</pubDate>
-      <guid>https://benjamingeer.name/talk/knora-a-generic-storage-system-and-api-for-accessing-and-reusing-digital-qualitative-research-data-in-the-humanities/</guid>
+      <title>Yousry Nasrallah: The Pursuit of Autonomy in the Arab and European Film Markets</title>
+      <link>https://benjamingeer.name/publication/yousry/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/publication/yousry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SocioResources</title>
+      <link>https://benjamingeer.name/project/socioresources/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/project/socioresources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>أبحاث لفتت نظري</title>
+      <link>https://benjamingeer.name/project/abhath/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/project/abhath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomy and Symbolic Capital in an Academic Social Movement: The March 9 Group in Egypt</title>
+      <link>https://benjamingeer.name/publication/autonomy-en/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/publication/autonomy-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>الاستقلالية والرأسمال الرمزي ضمن حركة اجتماعية أكاديمية : مجموعة 9 مارس في مصر</title>
+      <link>https://benjamingeer.name/publication/autonomy-ar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/publication/autonomy-ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Priesthood of Nationalism in Egypt: Duty, Authority, Autonomy</title>
+      <link>https://benjamingeer.name/publication/phd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/publication/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophets and Priests of the Nation: Naguib Mahfouz’s Karnak Café and the 1967 Crisis in Egypt</title>
+      <link>https://benjamingeer.name/publication/karnak/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/publication/karnak/</guid>
       <description></description>
     </item>
     

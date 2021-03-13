@@ -17,10 +17,10 @@ organizations:
 bio: Working on long-term reuse of humanities data.
 
 # Interests to show in About widget
-interests:
-- Digital editions
-- Functional languages
-- Linked Open Data
+#interests:
+#- Digital editions
+#- Functional languages
+#- Linked Open Data
 
 # Education to show in About widget
 education:

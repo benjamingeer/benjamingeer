@@ -1,102 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://benjamingeer.name/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://benjamingeer.name/project/knora/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://benjamingeer.name/project/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/project/tondauer/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://benjamingeer.name/publication-type/2/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://benjamingeer.name/publication/gravsearch/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://benjamingeer.name/publication_types/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://benjamingeer.name/publication/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://benjamingeer.name/publication-type/1/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://benjamingeer.name/publication/sipi/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://benjamingeer.name/talk/knora-a-generic-storage-system-and-api-for-accessing-and-reusing-digital-qualitative-research-data-in-the-humanities/</loc>
-    <lastmod>2015-09-17T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://benjamingeer.name/event/</loc>
-    <lastmod>2015-09-17T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication-type/6/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication/training/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication/yousry/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/project/socioresources/</loc>
+    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/project/abhath/</loc>
+    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication/autonomy-en/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication/autonomy-ar/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication-type/7/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication/phd/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/publication/karnak/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://benjamingeer.name/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://benjamingeer.name/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://benjamingeer.name/tags/</loc>
   </url>
-  
 </urlset>
