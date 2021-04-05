@@ -6,7 +6,7 @@ summary: Un projet qui diffuse des éditions musicales sous licence Creative Com
 date: "2021-03-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://tondauer.art/fr"
+external_link: "https://tondauer.art/fr/"
 
 links:
 url_code: ""
