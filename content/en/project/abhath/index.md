@@ -6,7 +6,7 @@ summary: مدونة تلخص أبحاثًا في العلوم الاجتماعي
 date: "2013-10-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://socioresources.net/blog/"
+external_link: "https://benjamingeer.blogspot.com"
 
 links:
 url_code: ""

@@ -1,62 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://benjamingeer.name/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/project/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/project/tondauer/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication-type/2/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/gravsearch/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication_types/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication-type/6/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/training/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/yousry/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/autonomy-ar/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/project/socioresources/</loc>
-    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/project/abhath/</loc>
-    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/autonomy-en/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication-type/7/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/phd/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/publication/karnak/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/categories/</loc>
-  </url><url>
-    <loc>https://benjamingeer.name/post/</loc>
-  </url><url>
-    <loc>https://benjamingeer.name/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://benjamingeer.name/en/sitemap.xml</loc>
+    
+      <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://benjamingeer.name/fr/sitemap.xml</loc>
+    
+      <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

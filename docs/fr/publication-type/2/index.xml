@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Benjamin Geer</title>
+    <link>https://benjamingeer.name/fr/publication-type/2/</link>
+      <atom:link href="https://benjamingeer.name/fr/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benjamingeer.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://benjamingeer.name/fr/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Gravsearch: Transforming SPARQL to query humanities data</title>
+      <link>https://benjamingeer.name/fr/publication/gravsearch/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/fr/publication/gravsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>الاستقلالية والرأسمال الرمزي ضمن حركة اجتماعية أكاديمية : مجموعة 9 مارس في مصر</title>
+      <link>https://benjamingeer.name/fr/publication/autonomy-ar/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/fr/publication/autonomy-ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomy and Symbolic Capital in an Academic Social Movement: The March 9 Group in Egypt</title>
+      <link>https://benjamingeer.name/fr/publication/autonomy-en/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/fr/publication/autonomy-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophets and Priests of the Nation: Naguib Mahfouz’s Karnak Café and the 1967 Crisis in Egypt</title>
+      <link>https://benjamingeer.name/fr/publication/karnak/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/fr/publication/karnak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
