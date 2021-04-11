@@ -21,10 +21,6 @@
     name = "Expérience"
     url = "#experience"
     weight = 15
-  #[[fr.menu.main]]
-    #  name = "Posts"
-    #  url = "#posts"
-    #  weight = 20
   [[fr.menu.main]]
     name = "Projets"
     url = "#projects"
@@ -33,6 +29,10 @@
     name = "Publications"
     url = "#featured"
     weight = 50
+  [[fr.menu.main]]
+    name = "Blog"
+    url = "#posts"
+    weight = 55
   [[fr.menu.main]]
     name = "Contact"
     url = "#contact"

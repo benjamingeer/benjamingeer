@@ -5,12 +5,52 @@
     <link>https://benjamingeer.name/</link>
       <atom:link href="https://benjamingeer.name/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Geer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://benjamingeer.name/images/icon_hud047489f1ae09faeb397e9d8cc79ee9e_11896_512x512_fill_lanczos_center_2.png</url>
+      <url>https://benjamingeer.name/media/icon_hud047489f1ae09faeb397e9d8cc79ee9e_11896_512x512_fill_lanczos_center_2.png</url>
       <title>Benjamin Geer</title>
       <link>https://benjamingeer.name/</link>
     </image>
+    
+    <item>
+      <title>Trying to Be a Jazz Guitarist</title>
+      <link>https://benjamingeer.name/post/jazz-guitarist/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/post/jazz-guitarist/</guid>
+      <description>&lt;p&gt;I started playing jazz guitar around the time I went to university. I
+wanted to combine the improvisational tradition of jazz with non-tonal
+harmony and large-scale structures. But I thought I should start with
+bebop:&lt;/p&gt;
+&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/459910407&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/459916443&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In 1995–96, while working as an English language teaching assistant in
+France, I had the opportunity to play in an amateur big band as well
+as a quintet:&lt;/p&gt;
+&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/459924804&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When I was about 30 I stopped playing, mainly out of frustration from
+my own slow progress and the difficulty of trying to be a musician
+while needing to earn a living in some other way. I wish I had
+stayed with it.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tondauer</title>

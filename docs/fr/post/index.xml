@@ -5,12 +5,52 @@
     <link>https://benjamingeer.name/fr/post/</link>
       <atom:link href="https://benjamingeer.name/fr/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://benjamingeer.name/images/icon_hud047489f1ae09faeb397e9d8cc79ee9e_11896_512x512_fill_lanczos_center_2.png</url>
+      <url>https://benjamingeer.name/media/icon_hud047489f1ae09faeb397e9d8cc79ee9e_11896_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://benjamingeer.name/fr/post/</link>
     </image>
+    
+    <item>
+      <title>J’ai essayé d’être guitariste de jazz</title>
+      <link>https://benjamingeer.name/fr/post/jazz-guitarist/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/fr/post/jazz-guitarist/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai commencé à jouer de la guitare de jazz à peu près au moment
+d&amp;rsquo;aller à l&amp;rsquo;université. Je voulais allier la tradition d&amp;rsquo;improvisation
+du jazz à l&amp;rsquo;harmonie non-tonale et des structures à grande échelle.
+Mais je pensais qu&amp;rsquo;il fallait commencer par le bebop :&lt;/p&gt;
+&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/459910407&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/459916443&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;En 1995–96, alors que je travaillais comme assistant d&amp;rsquo;anglais en
+France, j&amp;rsquo;ai pu jouer dans un orchestre de jazz ainsi que dans un
+quintette :&lt;/p&gt;
+&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/459924804&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;À l&amp;rsquo;age de 30 ans environ j&amp;rsquo;ai arrêté de jouer, surtout parce que
+j&amp;rsquo;étais frustré par la lenteur de mes progrès et par la difficulté de
+concilier la musique et la nécessité de gagner ma vie en faisant autre
+chose. J&amp;rsquo;aimerais avoir persévéré.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

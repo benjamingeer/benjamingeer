@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://benjamingeer.name/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://benjamingeer.name/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/post/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://benjamingeer.name/post/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/post/jazz-guitarist/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/jazz-guitarist/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://benjamingeer.name/post/jazz-guitarist/"
                 />
   </url><url>
     <loc>https://benjamingeer.name/project/</loc>
@@ -220,18 +246,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://benjamingeer.name/categories/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benjamingeer.name/post/"
                 />
   </url><url>
     <loc>https://benjamingeer.name/tags/</loc>
