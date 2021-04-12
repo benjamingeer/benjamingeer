@@ -22,4 +22,4 @@ as a quintet:
 When I was about 30 I stopped playing, mainly out of frustration from
 my own slow progress and the difficulty of trying to be a musician
 while needing to earn a living in some other way. I wish I had
-stayed with it.
+kept at it.
