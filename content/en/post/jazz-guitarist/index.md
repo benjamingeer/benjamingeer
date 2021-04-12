@@ -7,7 +7,7 @@ date: 2021-04-11
 I started playing jazz guitar around the time I went to university. I
 wanted to combine the improvisational tradition of jazz with non-tonal
 harmony and large-scale structures. But I thought I should start with
-bebop:
+bebop. These recordings are from 1991:
 
 {{< soundcloud 459910407 >}}
 
@@ -20,6 +20,6 @@ as a quintet:
 {{< soundcloud 459924804 >}}
 
 When I was about 30 I stopped playing, mainly out of frustration from
-my own slow progress and the difficulty of trying to be a musician
-while needing to earn a living in some other way. I wish I had
-kept at it.
+my own slow progress and from the difficulty of trying to be a
+musician while needing to earn a living in some other way. I wish I
+had kept at it.

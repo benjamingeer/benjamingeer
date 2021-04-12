@@ -7,7 +7,8 @@ date: 2021-04-11
 J'ai commencé à jouer de la guitare de jazz à peu près au moment
 d'aller à l'université. Je voulais allier la tradition d'improvisation
 du jazz à l'harmonie non-tonale et des structures à grande échelle.
-Mais je pensais qu'il fallait commencer par le bebop :
+Mais je pensais qu'il fallait commencer par le bebop. Ces
+enregistrements datent de 1991 :
 
 {{< soundcloud 459910407 >}}
 
