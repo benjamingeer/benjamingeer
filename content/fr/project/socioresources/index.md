@@ -1,6 +1,6 @@
 ---
 title: Ressources sociologiques
-summary: Un blog sur la sociologie de l'autonomie et l'autonomie de la sociologie, en anglais, en français et en arabe.
+summary: "Un blog sur la sociologie de l'autonomie et l'autonomie de la sociologie : [français](https://ressources-sociologiques.net/blog/), [English](https://socioresources.net/blog/), [العربية](https://موارد-سوسيولوجية.شبكة/blog/)."
 #tags:
 #- Linked Open Data
 date: "2013-10-16T00:00:00Z"

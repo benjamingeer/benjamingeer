@@ -1,6 +1,6 @@
 ---
 title: Tondauer
-summary: Un projet qui diffuse des éditions musicales sous licence Creative Commons.
+summary: "Un projet qui diffuse des éditions musicales sous licence Creative Commons : [français](https://tondauer.art/fr/), [English](https://tondauer.art/)."
 #tags:
 #- Linked Open Data
 date: "2021-03-02T00:00:00Z"

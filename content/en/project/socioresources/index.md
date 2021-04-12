@@ -1,6 +1,6 @@
 ---
 title: SocioResources
-summary: A blog focusing on the sociology of autonomy and the autonomy of sociology, in English, French, and Arabic.
+summary: "A blog focusing on the sociology of autonomy and the autonomy of sociology: [English](https://socioresources.net/blog/), [français](https://ressources-sociologiques.net/blog/), [العربية](https://موارد-سوسيولوجية.شبكة/blog/)."
 #tags:
 #- Linked Open Data
 date: "2013-10-16T00:00:00Z"

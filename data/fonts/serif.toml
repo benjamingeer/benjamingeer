@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Serif"
+
+# Optional Google font URL
+google_fonts = "family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+# Font families
+heading_font = "Amiri"
+body_font = "Amiri"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
