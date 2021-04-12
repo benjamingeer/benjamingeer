@@ -34,3 +34,6 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+Vous pouvez télécharger toutes mes publications en accès libre sur ma
+[page ORCID](https://orcid.org/0000-0002-2449-8558).

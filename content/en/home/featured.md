@@ -34,3 +34,6 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+You can download open-access versions of all my publications from my
+[ORCID profile](https://orcid.org/0000-0002-2449-8558).

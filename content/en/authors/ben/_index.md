@@ -76,6 +76,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm a software developer at the [Data and Service Center for the Humanities](https://dasch.swiss/).
+I'm a software developer at the [Data and Service Center for the
+Humanities](https://dasch.swiss/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/benjamin-geer-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref
+"media/benjamin-geer-cv.pdf" "newtab" >}}CV{{< /staticref >}}.

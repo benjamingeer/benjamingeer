@@ -76,6 +76,8 @@ email: ""
 highlight_name: false
 ---
 
-Je suis informaticien au [Data and Service Center for the Humanities](https://dasch.swiss/).
+Je suis informaticien au [Data and Service Center for the
+Humanities](https://dasch.swiss/).
 
-{{< icon name="download" pack="fas" >}} Téléchargez mon {{< staticref "media/benjamin-geer-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Téléchargez mon {{< staticref
+"media/benjamin-geer-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
