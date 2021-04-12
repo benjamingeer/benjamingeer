@@ -20,6 +20,6 @@ quintette :
 {{< soundcloud 459924804 >}}
 
 À l'age de 30 ans environ j'ai arrêté de jouer, surtout parce que
-j'étais frustré par la lenteur de mes progrès et par la difficulté de
-concilier la musique et la nécessité de gagner ma vie en faisant autre
-chose. J'aimerais avoir persévéré.
+j'étais frustré par la lenteur de mes progrès ainsi que par la
+difficulté de concilier la musique et la nécessité de gagner ma vie en
+faisant autre chose. Je regrette de ne pas avoir continué.
