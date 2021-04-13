@@ -64,9 +64,9 @@ seconde moitié du XIXe siècle.[^Manning]
 
 L'indication de tempo est *Andante con moto* et [l'édition
 Furore](https://furore-verlag.de/en/produkt/das-jahr-moderne-notenedition-2/)
-propose ♪ ≈ 92, mais les pianistes ont généralement joué « Septembre
-» beaucoup plus vite. Je pense qu'il faut garder à l'esprit le conseil
-de Thalberg :
+propose ♪ ≈ 92, mais les pianistes ont généralement joué « Septembre »
+beaucoup plus vite. Personnellement, je la préfère *andante*. Je crois
+que ce bon conseil de Thalberg est pertinent :
 
 > Nous ferons aussi remarquer qu'en général on joue trop vite et que
 > l'on croit avoir beaucoup prouvé en déployant une grande agilité de

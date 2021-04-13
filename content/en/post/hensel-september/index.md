@@ -64,7 +64,8 @@ half of the 19th century.[^Manning]
 The tempo marking is *Andante con moto*, and the [Furore
 edition](https://furore-verlag.de/en/produkt/das-jahr-moderne-notenedition-2/)
 suggests ♪ ≈ 92, but pianists have usually played "September" much
-faster. I think one should keep in mind Thalberg's advice:
+faster. Personally I prefer it *andante*. I think this is good advice
+from Thalberg:
 
 > We note also that in general people play too fast and that they
 > believe they have proved much by deploying great agility of the
