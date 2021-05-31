@@ -9,12 +9,12 @@ superuser: true
 role: Développeur de logiciels
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Data and Service Center for the Humanities
-  url: https://dasch.swiss/
+#organizations:
+#- name: Data and Service Center for the Humanities
+#  url: https://dasch.swiss/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Je travaille sur la réutilisation à long terme des données de recherche en sciences humaines.
+#bio: Je travaille sur la réutilisation à long terme des données de recherche en sciences humaines.
 
 # Interests to show in About widget
 #interests:
@@ -76,5 +76,3 @@ email: ""
 highlight_name: false
 ---
 
-Je suis informaticien au [Data and Service Center for the
-Humanities](https://dasch.swiss/).

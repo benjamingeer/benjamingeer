@@ -27,7 +27,7 @@ experience:
     company_url: 'https://dasch.swiss/'
     location: Basel
     date_start: '2014-02-01'
-    date_end: ''
+    date_end: '2021-05-31'
     description: "Lead developer of [Knora](https://www.knora.org/), Switzerland's flagship system for editing, storing, searching, and reusing humanities research data."
         
   - title: Post-doctoral Research Fellow

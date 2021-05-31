@@ -27,7 +27,7 @@ experience:
     company_url: 'https://dasch.swiss/'
     location: Basel
     date_start: '2014-02-01'
-    date_end: ''
+    date_end: '2021-05-31'
     description: "Développeur principal de [Knora](https://www.knora.org/), système phare en Suisse pour l’édition, le stockage, l’interrogation et la réutilisation des données de recherche en sciences humaines."
         
   - title: Chercheur
