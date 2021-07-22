@@ -52,11 +52,11 @@ The piece displays "an artful application of the three-hand
 technique", "in which a melody played by the thumbs in the middle
 register of the piano was surrounded by material assigned to the other
 fingers above and below, to create the illusion of three hands at the
-keyboard".[^Todd_three_hand_technique] The English harpist Elias
-Parish-Alvars (1808–49) invented this technique, the pianist Sigismund
-Thalberg (1812–1871) transferred it to the piano,[^Walker] and it
-became widely used in the 1830s. In "September", the upper voice seems
-to suggest the flowing water of the river.
+keyboard".[^Todd_three_hand_technique] The harpist Elias Parish-Alvars
+(1808–1849) invented this technique, the pianist Sigismund Thalberg
+(1812–1871) transferred it to the piano,[^Walker] and it became widely
+used in the 1830s. In "September", the upper voice seems to suggest
+the flowing water of the river.
 
 The movement's ingenious harmonic development[^Todd_September] is an
 example of how Hensel's work anticipated the avant-garde of the second
