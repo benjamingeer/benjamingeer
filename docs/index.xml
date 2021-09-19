@@ -5,12 +5,34 @@
     <link>https://benjamingeer.name/</link>
       <atom:link href="https://benjamingeer.name/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Geer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benjamingeer.name/media/icon_hub4de906d2cbdeef005a21bd006aaab79_13381_512x512_fill_lanczos_center_2.png</url>
       <title>Benjamin Geer</title>
       <link>https://benjamingeer.name/</link>
     </image>
+    
+    <item>
+      <title>J. S. Bach, tr. Busoni – Ich ruf’ zu dir, Herr</title>
+      <link>https://benjamingeer.name/post/bach-busoni/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/post/bach-busoni/</guid>
+      <description>&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1127316505&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;br&gt;
+&lt;p&gt;J. S. Bach, &lt;a href=&#34;https://www.bachvereniging.nl/en/bwv/bwv-639/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ich ruf’ zu dir,
+Herr&lt;/a&gt;, piano
+transcription by &lt;a href=&#34;https://en.wikipedia.org/wiki/Ferruccio_Busoni&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferruccio
+Busoni&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Benjamin Geer, piano.&lt;/p&gt;
+&lt;p&gt;Recorded 8 July 2021.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fanny Hensel – September</title>
