@@ -54,7 +54,7 @@ La pièce présente « une application astucieuse de l'effet à trois
 mains », « dans laquelle une mélodie jouée par les pouces dans le
 registre moyen du piano est entourée de notes plus graves et plus
 aigües jouées par les autres doigts, pour créer l'illusion de trois
-mains au clavier ».[^Todd_three_hand_technique] L'harpiste Elias
+mains au clavier ».[^Todd_three_hand_technique] Le harpiste Elias
 Parish-Alvars (1808–1849) a inventé cette technique, le pianiste
 Sigismund Thalberg (1812–1871) l'a transférée au piano[^Walker] et
 elle s'est répandue dans les années 1830. Dans « Septembre », la voix
