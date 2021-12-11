@@ -18,7 +18,7 @@ Jahr* a été publié en entier pour la première fois en 1989. Plus tard,
 un magnifique [manuscrit autographe
 remanié](http://resolver.staatsbibliothek-berlin.de/SBB00019D1B00000000)
 a été trouvé, dans lequel chaque mouvement est copié sur du papier
-d'une couleur différente, accompagné d'une illustration dessiné par le
+d'une couleur différente, accompagné d'une illustration dessinée par le
 mari de la compositrice, Wilhelm, et précédé d'un épigramme poétique.
 Voici la première page de « Septembre »&nbsp;:
 
