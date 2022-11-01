@@ -10,6 +10,6 @@ rm -rf docs
 mv public docs
 mv CNAME docs/
 
-git add -A
-git commit -m "Update site"
-git push
+#git add -A
+#git commit -m "Update site"
+#git push

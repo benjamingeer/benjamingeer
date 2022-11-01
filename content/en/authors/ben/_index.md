@@ -52,15 +52,18 @@ social:
 - icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://orcid.org/0000-0002-2449-8558
-- icon: github
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/benjamingeer
+- icon: mastodon
   icon_pack: fab
-  link: https://github.com/benjamingeer
+  link: https://fediscience.org/@benjamingeer
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/benjamin-geer/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/benjamingeer
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/benjamingeer
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
