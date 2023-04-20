@@ -57,7 +57,7 @@ social:
 #  link: https://github.com/benjamingeer
 - icon: mastodon
   icon_pack: fab
-  link: https://fediscience.org/@benjamingeer
+  link: https://zirk.us/@benjamingeer
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/benjamin-geer/
