@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://benjamingeer.name/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://benjamingeer.name/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/post/chopin-waltz/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/chopin-waltz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://benjamingeer.name/post/chopin-waltz/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/post/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://benjamingeer.name/post/"
                 />
   </url><url>
     <loc>https://benjamingeer.name/post/bach-busoni/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://benjamingeer.name/post/bach-busoni/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/post/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benjamingeer.name/post/"
                 />
   </url><url>
     <loc>https://benjamingeer.name/post/hensel-september/</loc>
