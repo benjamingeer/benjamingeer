@@ -34,7 +34,7 @@ experience:
     location: Basel
     date_start: '2014-02-01'
     date_end: '2021-05-31'
-    description: "Développeur principal de [Knora](https://www.knora.org/), système phare en Suisse pour l’édition, le stockage, l’interrogation et la réutilisation des données de recherche en sciences humaines."
+    description: "Développeur principal d'un système pour l’édition, le stockage, l’interrogation et la réutilisation des données de recherche en sciences humaines."
         
   - title: Chercheur
     company: Middle East Institute, Université nationale de Singapour
