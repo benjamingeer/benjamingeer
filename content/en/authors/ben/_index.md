@@ -52,12 +52,12 @@ social:
 - icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://orcid.org/0000-0002-2449-8558
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/benjamingeer
 - icon: mastodon
   icon_pack: fab
   link: https://zirk.us/@benjamingeer
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/benjamingeer
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/benjamin-geer/
