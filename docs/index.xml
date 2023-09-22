@@ -5,7 +5,7 @@
     <link>https://benjamingeer.name/</link>
       <atom:link href="https://benjamingeer.name/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Geer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benjamingeer.name/media/icon_hub4de906d2cbdeef005a21bd006aaab79_13381_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Geer</title>
@@ -13,48 +13,9 @@
     </image>
     
     <item>
-      <title>Chopin, Waltz, Op. 64, No. 2</title>
-      <link>https://benjamingeer.name/post/chopin-waltz/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://benjamingeer.name/post/chopin-waltz/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/828810211&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Waltz_in_C-sharp_minor,_Op._64,_No._2_%28Chopin%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frédéric Chopin, Waltz, Op. 64, No. 2&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Benjamin Geer, piano.&lt;/p&gt;
-&lt;p&gt;Recorded 20 May 2023.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>J. S. Bach, tr. Busoni – Ich ruf’ zu dir, Herr</title>
-      <link>https://benjamingeer.name/post/bach-busoni/</link>
-      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://benjamingeer.name/post/bach-busoni/</guid>
-      <description>&lt;iframe
-  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1127316505&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
-  width=&#34;100%&#34;
-  height=&#34;166&#34;
-  frameborder=&#34;no&#34;
-  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;br&gt;
-&lt;p&gt;J. S. Bach, &lt;a href=&#34;https://www.bachvereniging.nl/en/bwv/bwv-639/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ich ruf’ zu dir,
-Herr&lt;/a&gt;, piano
-transcription by &lt;a href=&#34;https://en.wikipedia.org/wiki/Ferruccio_Busoni&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferruccio
-Busoni&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Benjamin Geer, piano.&lt;/p&gt;
-&lt;p&gt;Recorded 8 July 2021.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Fanny Hensel – September</title>
       <link>https://benjamingeer.name/post/hensel-september/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://benjamingeer.name/post/hensel-september/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -159,6 +120,45 @@ piano de la maturité de Hensel&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:6&#34;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chopin, Waltz, Op. 64, No. 2</title>
+      <link>https://benjamingeer.name/post/chopin-waltz/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/post/chopin-waltz/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/828810211&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Waltz_in_C-sharp_minor,_Op._64,_No._2_%28Chopin%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frédéric Chopin, Waltz, Op. 64, No. 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Benjamin Geer, piano.&lt;/p&gt;
+&lt;p&gt;Recorded 20 May 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>J. S. Bach, tr. Busoni – Ich ruf’ zu dir, Herr</title>
+      <link>https://benjamingeer.name/post/bach-busoni/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/post/bach-busoni/</guid>
+      <description>&lt;iframe
+  src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1127316505&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+  width=&#34;100%&#34;
+  height=&#34;166&#34;
+  frameborder=&#34;no&#34;
+  scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+
+&lt;br&gt;
+&lt;p&gt;J. S. Bach, &lt;a href=&#34;https://www.bachvereniging.nl/en/bwv/bwv-639/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ich ruf’ zu dir,
+Herr&lt;/a&gt;, piano
+transcription by &lt;a href=&#34;https://en.wikipedia.org/wiki/Ferruccio_Busoni&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferruccio
+Busoni&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Benjamin Geer, piano.&lt;/p&gt;
+&lt;p&gt;Recorded 8 July 2021.&lt;/p&gt;
 </description>
     </item>
     

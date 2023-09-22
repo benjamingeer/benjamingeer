@@ -1,6 +1,6 @@
 ---
 title: Fanny Hensel – Septembre
-date: 2021-07-21
+date: 2021-09-22
 image:
   placement: 1
   caption: "[Wilhelm Hensel, portrait de Fanny Hensel, 1847 (Berlin, Mendelssohn Archiv, BA 44)](https://flic.kr/p/ByUpbo)"
