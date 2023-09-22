@@ -20,9 +20,7 @@ remanié](http://resolver.staatsbibliothek-berlin.de/SBB00019D1B00000000)
 a été trouvé, dans lequel chaque mouvement est copié sur du papier
 d'une couleur différente, accompagné d'une illustration dessinée par le
 mari de la compositrice, Wilhelm, et précédé d'un épigramme poétique.
-Voici la première page de « Septembre »&nbsp;:
-
-![September](/media/september.jpg)
+Furore Verlag a publié [une édition critique](https://furore-verlag.de/en/produkt/das-jahr-moderne-notenedition-2/).
 
 Pour Marion Wilson Kimber, une considération de la musique, de la
 poésie et des illustrations dans leur ensemble laisse penser que

@@ -19,10 +19,8 @@ magnificent [revised autograph
 manuscript](http://resolver.staatsbibliothek-berlin.de/SBB00019D1B00000000)
 was discovered, in which each movement is copied on paper of a
 different colour, illustrated with a drawing by Hensel's husband
-Wilhelm, and preceded by a poetic epigram. Here's the first page of
-"September":
-
-![September](/media/september.jpg)
+Wilhelm, and preceded by a poetic epigram. Furore Verlag has
+published [a critical edition](https://furore-verlag.de/en/produkt/das-jahr-moderne-notenedition-2/).
 
 Considering the music, poetry, and illustrations together, Marion
 Wilson Kimber sees the work as depicting not simply the cycle of the
