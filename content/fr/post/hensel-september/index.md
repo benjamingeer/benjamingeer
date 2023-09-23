@@ -7,7 +7,7 @@ image:
   alt_text: Wilhelm Hensel, portrait de Fanny Hensel, 1847 (Berlin, Mendelssohn Archiv, BA 44)
 ---
 
-{{< vimeo 577763204 >}}
+{{< peertube makertube.net 2979a067-6f36-4cd8-98f9-391366f2d671 >}}
 
 <br>
 

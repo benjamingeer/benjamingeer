@@ -3,7 +3,7 @@ title: Chopin, Waltz, Op. 64, No. 2
 date: 2023-05-20
 ---
 
-{{< vimeo 828810211 >}}
+{{< peertube makertube.net 4d42551a-74b8-454b-a429-2e87807c2f59 >}}
 
 <br>
 
