@@ -11,7 +11,8 @@ image:
 
 <br>
 
-In 1841, Fanny Hensel (1805–1847) wrote *Das Jahr* (The Year), a
+In 1841, [Fanny Hensel](https://en.wikipedia.org/wiki/Fanny_Mendelssohn)
+(1805–1847) wrote *Das Jahr* (The Year), a
 large-scale piano cycle with a movement for each month of the
 year. She published "September" in 1846 as part of her Op. 2, but *Das
 Jahr* was first published in its entirety in 1989. Subsequently, a

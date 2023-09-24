@@ -1,6 +1,6 @@
 ---
 title: Fanny Hensel – Septembre
-date: 2021-09-22
+date: 2023-09-22
 image:
   placement: 1
   caption: "[Wilhelm Hensel, portrait de Fanny Hensel, 1847 (Berlin, Mendelssohn Archiv, BA 44)](https://flic.kr/p/ByUpbo)"
@@ -11,7 +11,8 @@ image:
 
 <br>
 
-En 1841, Fanny Hensel (1805–1847) a écrit *Das Jahr* (L'année), un
+En 1841, [Fanny Hensel](https://fr.wikipedia.org/wiki/Fanny_Mendelssohn)
+(1805–1847) a écrit *Das Jahr* (L'année), un
 grand cycle pour piano comprenant un mouvement pour chaque mois de
 l'année. Elle a publié « Septembre » en 1846 dans son Op. 2, mais *Das
 Jahr* a été publié en entier pour la première fois en 1989. Plus tard,
