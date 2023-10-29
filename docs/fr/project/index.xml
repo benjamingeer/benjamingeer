@@ -5,12 +5,20 @@
     <link>https://benjamingeer.name/fr/project/</link>
       <atom:link href="https://benjamingeer.name/fr/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benjamingeer.name/media/icon_hub4de906d2cbdeef005a21bd006aaab79_13381_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://benjamingeer.name/fr/project/</link>
     </image>
+    
+    <item>
+      <title>accicalc</title>
+      <link>https://benjamingeer.name/fr/project/accicalc/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/fr/project/accicalc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>كوكبنا</title>
