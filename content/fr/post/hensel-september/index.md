@@ -23,7 +23,7 @@ d'une couleur différente, accompagné d'une illustration dessinée par le
 mari de la compositrice, Wilhelm, et précédé d'un épigramme poétique.
 Furore Verlag a publié [une édition critique](https://furore-verlag.de/en/produkt/das-jahr-moderne-notenedition-2/).
 
-Pour Marion Wilson Kimber, une considération de la musique, de la
+Pour Marian Wilson Kimber, une considération de la musique, de la
 poésie et des illustrations dans leur ensemble laisse penser que
 l'œuvre représente non seulement le cycle de l'année, mais aussi les
 étapes de la vie d'un individu.[^Kimber]

@@ -23,7 +23,7 @@ different colour, illustrated with a drawing by Hensel's husband
 Wilhelm, and preceded by a poetic epigram. Furore Verlag has
 published [a critical edition](https://furore-verlag.de/en/produkt/das-jahr-moderne-notenedition-2/).
 
-Considering the music, poetry, and illustrations together, Marion
+Considering the music, poetry, and illustrations together, Marian
 Wilson Kimber sees the work as depicting not simply the cycle of the
 year, but also the stages of an individual's life.[^Kimber]
 
