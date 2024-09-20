@@ -59,7 +59,16 @@ Cela vaut entre autres pour :
 - *Le Monde*
 - *Libération*
 
-En effet, pour les titres auxquels Europresse donne accès mais qu'il ne propose pas au format PDF, il affiche le texte intégral des articles sur son propre site. L'inconvénient, c'est qu'il ne propose aucune navigation et s'attend à ce que vous trouviez chaque article en utilisant son moteur de recherche. Je vous conseille d'installer plutôt l'extension [Ophirofox](https://ophirofox.ophir.dev/) dans votre navigateur (Firefox ou Chrome). Quand vous naviguez sur le site d'un journal compatible, l'extension ajoute un bouton **Lire sur Europresse** sur les articles réservés aux abonnés. En réalité ce bouton ne fait qu'ouvrir le site d'Europresse, saisir le titre de l'article que vous regardiez et lancer la recherche, ce qui fait gagner du temps.
+En effet, pour les titres auxquels Europresse donne accès mais qu'il ne propose pas au format PDF, il affiche le texte intégral des articles sur son propre site. L'inconvénient, c'est qu'il ne propose aucune navigation et s'attend à ce que vous trouviez chaque article en utilisant son moteur de recherche.
+
+Sur un ordinateur de bureau, je vous conseille d'installer plutôt l'extension [Ophirofox](https://ophirofox.ophir.dev/) dans votre navigateur (Firefox ou Chrome). Quand vous naviguez sur le site d'un journal compatible, l'extension ajoute un bouton **Lire sur Europresse** sur les articles réservés aux abonnés. En réalité ce bouton ne fait qu'ouvrir le site d'Europresse, saisir le titre de l'article que vous regardiez et lancer la recherche, ce qui fait gagner du temps.
+
+Mais il n'y pas de telle extension pour votre téléphone. Dans ce contexte-là, il faut donc :
+
+1. Copier le titre de l'article.
+2. Visiter [easyBnF](https://easybnf.fr/).
+3. Taper `TIT_HEAD=` et coller le titre après le signe égal.
+4. Cliquer sur la loupe pour lancer la recherche.
 
 ### Lecture sur PressReader
 
