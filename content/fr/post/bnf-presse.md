@@ -66,7 +66,7 @@ Sur un ordinateur de bureau, je vous conseille d'installer plutôt l'extension [
 Mais il n'y pas de telle extension pour votre téléphone. Dans ce contexte-là, il faut donc :
 
 1. Copier le titre de l'article.
-2. Visiter [easyBnF](https://easybnf.fr/).
+2. Visiter [easyBnF](https://easybnf.fr/) et cliquer sur Europresse.
 3. Taper `TIT_HEAD=` et coller le titre après le signe égal.
 4. Cliquer sur la loupe pour lancer la recherche.
 
