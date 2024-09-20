@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html class="html" lang="en-GB" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>How to make Arabic PDFs with Markdown and pandoc | Benjamin Geer</title>
+<link rel="icon" href="/favicon.ico" />
+
+<meta name="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
+You’ll need:
+A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and (Cairo)[https://fonts.google.com/specimen/Cairo] for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian requires a directory that it calls a “vault”, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+<meta property="og:url" content="https://benjamingeer.name/en/post/pandoc-arabic-howto/">
+  <meta property="og:site_name" content="Benjamin Geer">
+  <meta property="og:title" content="How to make Arabic PDFs with Markdown and pandoc">
+  <meta property="og:description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
+You’ll need:
+A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and (Cairo)[https://fonts.google.com/specimen/Cairo] for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian requires a directory that it calls a “vault”, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2024-09-19T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-09-19T00:00:00+00:00">
+    <meta property="article:tag" content="Computers">
+
+
+  <meta itemprop="name" content="How to make Arabic PDFs with Markdown and pandoc">
+  <meta itemprop="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
+You’ll need:
+A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and (Cairo)[https://fonts.google.com/specimen/Cairo] for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian requires a directory that it calls a “vault”, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+  <meta itemprop="datePublished" content="2024-09-19T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2024-09-19T00:00:00+00:00">
+  <meta itemprop="wordCount" content="535">
+  <meta itemprop="keywords" content="Computers">
+
+
+      <link rel="stylesheet" href="/css/style.min.8d4e995ae1264a896251c5b7e6858d44b5e1c5607d196136eaed410427394a1e.css" integrity="sha256-jU6ZWuEmSoliUcW35oWNRLXhxWB9GWE26u1BBCc5Sh4=" crossorigin="anonymous">
+<link rel="me" href="https://zirk.us/@benjamingeer" />
+</head>
+<body class="body">
+  <header class="header">
+    <h1>Benjamin Geer</h1>
+  <nav class="menu language">
+    <ul class="menu__list language__list">
+    <li class="menu__item">
+      <a class="menu__link" href="/en/">Blog</a>
+    </li>
+    <li class="menu__item">
+      <a class="menu__link" href="/en/categories/projects/">Projects</a>
+    </li>
+    <li class="menu__item">
+      <a class="menu__link" href="/en/categories/music/">Music</a>
+    </li>
+    <li class="menu__item">
+      <a class="menu__link" href="/en/tags/">Tags</a>
+    </li>
+    <li class="menu__item">
+      <a class="menu__link" href="/en/about/">About</a>
+    </li>
+
+  <li class="language__item"><a class="language__link" href="/fr">Français</a></li>
+      </ul>
+  </nav>
+
+  </header>
+  <main class="main">
+    
+  <h1>How to make Arabic PDFs with Markdown and pandoc</h1>
+  <span class="author">Benjamin Geer</span>
+<br>
+  <time class="published-date" datetime="2024-09-19T00:00:00&#43;00:00">2024-09-19</time>
+  
+
+  
+
+
+
+
+  <details class="toc">
+    <summary class="toc__summary">Table of Contents</summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#top-level-directory">Top-level directory</a>
+      <ul>
+        <li><a href="#shared-pandoc-variables">Shared pandoc variables</a></li>
+        <li><a href="#shared-latex-formatting">Shared LaTeX formatting</a></li>
+        <li><a href="#shared-makefile-rules">Shared Makefile rules</a></li>
+      </ul>
+    </li>
+    <li><a href="#articles">Articles</a></li>
+  </ul>
+</nav>
+  </details>
+
+  <p>Here&rsquo;s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I&rsquo;ve done for <a href="https://%D9%83%D9%88%D9%83%D8%A8%D9%86%D8%A7.%D8%B4%D8%A8%D9%83%D8%A9">كوكبنا.شبكة</a>. This assumes you&rsquo;re using Linux or a similar environment, and are comfortable with the command line.</p>
+<p>You&rsquo;ll need:</p>
+<ul>
+<li>A Markdown editor that handles Arabic text well. I recommend <a href="https://obsidian.md/">Obsidian</a>, which is user-friendly and has good built-in right-to-left text support. You can add the <a href="https://github.com/esm7/obsidian-rtl">Obsidian RTL Plugin</a> to get a few improvements.</li>
+<li>A good Arabic font that&rsquo;s convenient for text editing, such as <a href="https://fonts.google.com/noto/specimen/Noto+Naskh+Arabic">Noto Naskh Arabic</a>.</li>
+<li>Some good Arabic fonts for your PDFs, such as <a href="https://fonts.google.com/specimen/Amiri">Amiri</a> for body text and (Cairo)[https://fonts.google.com/specimen/Cairo] for headings.</li>
+<li>The <a href="https://www.luatex.org/">LuaTeX</a> typesetter, which you can get by installing <a href="https://www.tug.org/texlive/">TeXlive</a>. If you&rsquo;re not sure what you need, just install the whole TeXlive distribution.</li>
+<li><a href="https://pandoc.org/">pandoc</a></li>
+<li><a href="https://www.gnu.org/software/make/">GNU Make</a></li>
+<li>An ordinary text editor for writing Makefiles and the like, such as <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</li>
+</ul>
+<h2 class="heading" id="top-level-directory">
+  Top-level directory<span class="heading__anchor"> <a href="#top-level-directory">#</a></span>
+</h2><p>Obsidian requires a directory that it calls a &ldquo;vault&rdquo;, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.</p>
+<p>Create a vault for Arabic articles, open it in Obsidian, and configure the editor however you like.</p>
+<p>I prefer to make a subdirectory for each article, and to keep shared configuration in the top-level directory of the vault.</p>
+<h3 class="heading" id="shared-pandoc-variables">
+  Shared pandoc variables<span class="heading__anchor"> <a href="#shared-pandoc-variables">#</a></span>
+</h3><p>In the top-level directory of the vault, create a file <code>variables.md</code>, containing pandoc variables to be used for all the articles.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">---
+</span></span><span class="line"><span class="cl">documentclass: article
+</span></span><span class="line"><span class="cl">classoption: a4paper
+</span></span><span class="line"><span class="cl">colorlinks: true
+</span></span><span class="line"><span class="cl">indent: true
+</span></span><span class="line"><span class="cl">---
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 class="heading" id="shared-latex-formatting">
+  Shared LaTeX formatting<span class="heading__anchor"> <a href="#shared-latex-formatting">#</a></span>
+</h3><p>Create a file <code>header.tex</code>, containing LaTeX formatting commands to be used for all the articles. Here I&rsquo;m
+following <a href="https://latex3.github.io/babel/guides/which-method-for-which-language.html">the advice in the Babel documentation</a>,
+and I&rsquo;ve added some commands to make the output look better, by:</p>
+<ul>
+<li>Increasing the default text size (<code>Scale=1.2</code>).</li>
+<li>Putting more space between lines (<code>baselinestretch</code>).</li>
+<li>Using the <code>titling</code> and <code>titlesec</code> packages to increase the sizes of titles and headings.</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">\usepackage[arabic, provide=*, bidi=basic, layout=counters.tabular]{babel}
+</span></span><span class="line"><span class="cl">\babelfont{rm}[Renderer=Harfbuzz, Scale=1.2]{Amiri}
+</span></span><span class="line"><span class="cl">\babelfont{sf}[Renderer=Harfbuzz, Scale=1.2]{Cairo}
+</span></span><span class="line"><span class="cl">\babelfont{tt}[Renderer=Harfbuzz, Scale=1.2]{DejaVu Sans Mono}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">\renewcommand{\baselinestretch}{2}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">\usepackage{titling}
+</span></span><span class="line"><span class="cl">\usepackage{titlesec}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">\pretitle{
+</span></span><span class="line"><span class="cl">  \begin{center}
+</span></span><span class="line"><span class="cl">    \normalfont\sffamily\Huge
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">\posttitle{
+</span></span><span class="line"><span class="cl">  \end{center}
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">\titleformat{\section}
+</span></span><span class="line"><span class="cl">  {\normalfont\sffamily\large}
+</span></span><span class="line"><span class="cl">  {\thesection}
+</span></span><span class="line"><span class="cl">  {1em}{}[]
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">\titleformat{\subsection}
+</span></span><span class="line"><span class="cl">  {\normalfont\sffamily}
+</span></span><span class="line"><span class="cl">  {\thesection}
+</span></span><span class="line"><span class="cl">  {1em}{}[]
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 class="heading" id="shared-makefile-rules">
+  Shared Makefile rules<span class="heading__anchor"> <a href="#shared-makefile-rules">#</a></span>
+</h3><p>Create a file called <code>rules.mk</code>, which contains the shared Makefile rules for all the articles:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-gdscript3" data-lang="gdscript3"><span class="line"><span class="cl"><span class="o">.</span><span class="n">PHONY</span><span class="p">:</span> <span class="n">all</span> <span class="n">clean</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">INPUT</span> <span class="o">=</span> <span class="o">$</span><span class="p">(</span><span class="n">wildcard</span> <span class="o">*.</span><span class="n">md</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">OUTPUT</span> <span class="o">=</span> <span class="o">$</span><span class="p">(</span><span class="n">patsubst</span> <span class="o">%.</span><span class="n">md</span><span class="p">,</span> <span class="o">%.</span><span class="n">pdf</span><span class="p">,</span> <span class="o">$</span><span class="p">(</span><span class="n">INPUT</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">all</span><span class="p">:</span> <span class="o">$</span><span class="p">(</span><span class="n">OUTPUT</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">%.</span><span class="n">pdf</span><span class="p">:</span> <span class="o">%.</span><span class="n">md</span> <span class="o">../</span><span class="n">header</span><span class="o">.</span><span class="n">tex</span> <span class="o">../</span><span class="n">variables</span><span class="o">.</span><span class="n">md</span>
+</span></span><span class="line"><span class="cl">	<span class="n">pandoc</span> <span class="o">--</span><span class="n">pdf</span><span class="o">-</span><span class="n">engine</span> <span class="n">lualatex</span> <span class="o">--</span><span class="n">include</span><span class="o">-</span><span class="ow">in</span><span class="o">-</span><span class="n">header</span> <span class="o">../</span><span class="n">header</span><span class="o">.</span><span class="n">tex</span> <span class="o">-</span><span class="n">o</span> <span class="o">$</span><span class="err">@</span> <span class="o">../</span><span class="n">variables</span><span class="o">.</span><span class="n">md</span> <span class="o">$&lt;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">clean</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">	<span class="n">rm</span> <span class="o">-</span><span class="n">f</span> <span class="o">$</span><span class="p">(</span><span class="n">OUTPUT</span><span class="p">)</span> <span class="o">*~</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 class="heading" id="articles">
+  Articles<span class="heading__anchor"> <a href="#articles">#</a></span>
+</h2><p>For each article, make a subdirectory in the vault, e.g. <code>article-01</code>, and put the following <code>Makefile</code> in it:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">include ../rules.mk
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Use Obsidian to write the article in Markdown in the same subdirectory. At the top of the Markdown file, put the pandoc variables that are specific to that article, e.g.:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">---
+</span></span><span class="line"><span class="cl">title: &#34;هذا عنوان المقال&#34;
+</span></span><span class="line"><span class="cl">date: &#34;فبراير 2024&#34;
+</span></span><span class="line"><span class="cl">---
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>To generate the PDF, open a terminal, change to the <code>article-01</code> directory, and type <code>make</code>. Your PDF should be generated in the same directory.</p>
+
+  
+  <div>
+    <div>Tags:</div>
+    <ul>
+        <li><a href="/en/tags/computers/">Computers</a></li>
+    </ul>
+  </div>
+
+  
+
+  
+  <nav class="page-nav">
+      <a class="page-nav__previous-link" href="/en/post/tondauer/">Prev: Tondauer</a>
+      <a class="page-nav__next-link" href="/en/post/accicalc/">Next: accicalc</a>
+  </nav>
+
+  
+
+  </main>
+  <footer class="footer">
+    
+<p class="footer__copyright-notice">&copy; 2024 </p>
+<p class="footer__theme-info">Built with <a href='https://gohugo.io'>Hugo</a> and <a href='https://github.com/CyrusYip/hugo-theme-yue'>Yue</a></p>
+  </footer>
+</body>
+</html>

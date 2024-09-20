@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sociology on Benjamin Geer</title>
+    <link>https://benjamingeer.name/en/tags/sociology/</link>
+    <description>Recent content in Sociology on Benjamin Geer</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 16 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://benjamingeer.name/en/tags/sociology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SocioResources</title>
+      <link>https://benjamingeer.name/en/post/socioresources/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/post/socioresources/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://socioresources.net/blog/&#34;&gt;My old blog&lt;/a&gt; on the sociology of autonomy and the autonomy of sociology.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>أبحاث لفتت نظري</title>
+      <link>https://benjamingeer.name/en/post/abhath/</link>
+      <pubDate>Sun, 23 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/post/abhath/</guid>
+      <description>&lt;p&gt;My old Arabic blog on which I summarised research that I thought was interesting: &lt;a href=&#34;https://benjamingeer.blogspot.com/&#34;&gt;أبحاث لفتت نظري&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

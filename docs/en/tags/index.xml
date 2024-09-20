@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Benjamin Geer</title>
+    <link>https://benjamingeer.name/en/tags/</link>
+    <description>Recent content in Tags on Benjamin Geer</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://benjamingeer.name/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computers</title>
+      <link>https://benjamingeer.name/en/tags/computers/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/tags/computers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hensel</title>
+      <link>https://benjamingeer.name/en/tags/hensel/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/tags/hensel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chopin</title>
+      <link>https://benjamingeer.name/en/tags/chopin/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/tags/chopin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bach</title>
+      <link>https://benjamingeer.name/en/tags/bach/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/tags/bach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arabic</title>
+      <link>https://benjamingeer.name/en/tags/arabic/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/tags/arabic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jazz</title>
+      <link>https://benjamingeer.name/en/tags/jazz/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/tags/jazz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociology</title>
+      <link>https://benjamingeer.name/en/tags/sociology/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/tags/sociology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
