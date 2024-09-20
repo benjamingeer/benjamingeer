@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://benjamingeer.name/sitemap.xml
