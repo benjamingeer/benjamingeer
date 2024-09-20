@@ -114,6 +114,7 @@ Use Obsidian to write the article in Markdown in the same subdirectory. At the t
 ```
 ---
 title: "هذا عنوان المقال"
+author: "أنا"
 date: "فبراير 2024"
 ---
 ```
