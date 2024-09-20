@@ -32,7 +32,7 @@ I prefer to make a subdirectory for each article, and to keep shared configurati
 
 In the top-level directory you created, create a file `variables.md`, containing pandoc variables to be used for all the articles.
 
-```
+```yaml
 ---
 documentclass: article
 classoption: a4paper
@@ -52,7 +52,7 @@ and I've added some commands to make the output look better, by:
 - Using the `titling` and `titlesec` packages to increase the sizes of titles and headings.
 
 
-```
+```latex
 \usepackage[arabic, provide=*, bidi=basic, layout=counters.tabular]{babel}
 \babelfont{rm}[Renderer=Harfbuzz, Scale=1.2]{Amiri}
 \babelfont{sf}[Renderer=Harfbuzz, Scale=1.2]{Cairo}
@@ -86,7 +86,7 @@ and I've added some commands to make the output look better, by:
 
 Create a file called `rules.mk`, which contains the shared Makefile rules for all the articles:
 
-```
+```makefile
 .PHONY: all clean
 
 INPUT = $(wildcard *.md)
@@ -105,13 +105,13 @@ clean:
 
 For each article, make a subdirectory, e.g. `article-01`, and put the following `Makefile` in it:
 
-```
+```makefile
 include ../rules.mk
 ```
 
 Use Obsidian to write the article in Markdown in the same subdirectory. At the top of the Markdown file, put the pandoc variables that are specific to that article (these are called "properties" in Obsidian), e.g.:
 
-```
+```yaml
 ---
 title: "هذا عنوان المقال"
 author: "أنا"
