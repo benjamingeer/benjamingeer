@@ -25,7 +25,7 @@ You'll need:
 
 Obsidian expects you to put Markdown files in a directory tree that it configures as a "vault". You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.
 
-Create a directory that will contain Arabic articles. In Obsidian, create a vault in that directory. This just means that it creates a hidden subdirectory called `.obsidian`; don't put anything in that subdirectory.
+Create a directory that will contain Arabic articles. In Obsidian, choose "Open folder as vault" and open the folder you created. This just means that it creates a hidden subdirectory called `.obsidian`; don't put anything in that subdirectory.
 
 I prefer to make a subdirectory for each article, and to keep shared configuration in the top-level directory.
 
