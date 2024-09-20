@@ -29,7 +29,7 @@ You’ll need:
 A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian requires a directory that it calls a “vault”, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
   <meta itemprop="datePublished" content="2024-09-19T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-09-19T00:00:00+00:00">
-  <meta itemprop="wordCount" content="537">
+  <meta itemprop="wordCount" content="543">
   <meta itemprop="keywords" content="Computers">
 
 
@@ -242,7 +242,7 @@ and I&rsquo;ve added some commands to make the output look better, by:</p>
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">include ../rules.mk
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>Use Obsidian to write the article in Markdown in the same subdirectory. At the top of the Markdown file, put the pandoc variables that are specific to that article, e.g.:</p>
+</div><p>Use Obsidian to write the article in Markdown in the same subdirectory. At the top of the Markdown file, put the pandoc variables that are specific to that article (these are calld &ldquo;properties&rdquo; in Obsidian), e.g.:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
