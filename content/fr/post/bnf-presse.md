@@ -26,7 +26,7 @@ Voici un petit tutoriel pour en tirer le meilleur parti. En somme, c'est moins c
 
 Le moyen d'accéder aux articles dépend du titre de presse. Il y a plusieurs cas de figure :
 
-### Lecture directement sur le site original
+### Lecture sur le site original
 
 C'est possible avec quelques titres :
 
