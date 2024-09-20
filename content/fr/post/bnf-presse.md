@@ -8,17 +8,17 @@ tags:
 ---
 Beaucoup de titres de presse sont réservés aux abonnés et les abonnements peuvent coûter cher. Pour s'informer à moindre coût, on peut acheter un [Pass Lecture/Culture](https://inscriptionbilletterie.bnf.fr/accueil) de la [Bibliothèque nationale de France](https://www.bnf.fr). Le prix est actuellement 24 € par an, ou 15 € au tarif réduit. Ce pass donne accès à un grand nombre de titres du monde entier, y compris :
 
-- [Mediapart](https://www.mediapart.fr/)
-- [Alternatives économiques](https://www.alternatives-economiques.fr/)
-- [Le Monde](https://www.lemonde.fr/)
-- [Libération](https://www.liberation.fr/)
-- [Le Monde diplomatique](https://www.monde-diplomatique.fr/)
-- [Arrêt sur images](https://www.arretsurimages.net/)
-- [The New York Times](https://www.nytimes.com/)
-- [The Wall Street Journal](https://www.wsj.com/)
-- [The Economist](https://www.economist.com/)
-- [Süddeutsche Zeitung](https://www.sueddeutsche.de/)
-- [Der Tagesspiegel](https://www.tagesspiegel.de/)
+- [*Mediapart*](https://www.mediapart.fr/)
+- [*Alternatives économiques*](https://www.alternatives-economiques.fr/)
+- [*Le Monde*](https://www.lemonde.fr/)
+- [*Libération*](https://www.liberation.fr/)
+- [*Le Monde diplomatique*](https://www.monde-diplomatique.fr/)
+- [*Arrêt sur images*](https://www.arretsurimages.net/)
+- [*The New York Times*](https://www.nytimes.com/)
+- [*The Wall Street Journal*](https://www.wsj.com/)
+- [*The Economist*](https://www.economist.com/)
+- [*Der Tagesspiegel*](https://www.tagesspiegel.de/)
+- [*Süddeutsche Zeitung*](https://www.sueddeutsche.de/)
 
 Voici un petit tutoriel pour en tirer le meilleur parti. En somme, c'est moins commode que de s'abonner directement à chaque titre, mais ça coûte beaucoup moins cher. Notez bien qu'après l'achat du pass, il faudra attendre quelques jours pour qu'il commence à fonctionner.
 
