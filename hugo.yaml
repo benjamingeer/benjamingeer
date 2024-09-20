@@ -1,0 +1,83 @@
+# Documentation: https://gohugo.io/getting-started/configuration
+# Don't remove _merge, which imports default config
+theme: hugo-theme-yue
+baseURL: "https://benjamingeer.name/" # Change this to your real domain name, e.g. https://my-cool-domain.org/
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+enableGitInfo: false # Set lastmod from git history, this may increase build time
+enableEmoji: true # Emoji list: https://gohugo.io/quick-reference/emojis/
+enableRobotsTXT: true
+
+params:
+  _merge: deep # Import default config
+  rssFullContent: true
+  homePagerSize: 5
+  sectionPagerSize: 10 # Default: 10, set this to a large number to remove pagination
+  # images:
+    # Default image used in Open Graph, see https://gohugo.io/templates/embedded/#configure-open-graph
+    # - favicon.ico # /static/favicon.ico
+
+frontmatter:
+  lastmod: ['lastmod', ':default'] # lastmod in front matter has highest precedence
+
+markup:
+  _merge: deep # Import default config
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML code in Markdown, see https://gohugo.io/getting-started/configuration-markup/#rendererunsafe
+
+# Any key not defined under a languages will fall back to the global value in the root of configuration
+languages:
+  en:
+    contentDir: content/en
+    languageCode: en-GB
+    languageDirection: ltr
+    languageName: English
+    title: Benjamin Geer # Shown in home page
+    weight: 10
+    menus:
+      main:
+        - name: Blog
+          pageRef: /
+          weight: 10
+        - name: Projects
+          pageRef: /categories/projects
+          weight: 30
+        - name: Music
+          pageRef: /categories/music
+          weight: 40
+        - name: Tags
+          pageRef: /tags
+          weight: 50
+        - name: About
+          pageRef: /about
+          weight: 60
+    params:
+      dateFormat: "2006-01-02" # See https://gohugo.io/functions/time/format/
+      author: Benjamin Geer # Default author, supports single value or list, used in single page
+  fr:
+    contentDir: content/fr
+    languageDirection: ltr
+    languageName: Français
+    title: Benjamin Geer
+    weight: 20
+    menus:
+      main:
+        - name: Blog
+          pageRef: /
+          weight: 10
+        - name: Projets
+          pageRef: /categories/projets
+          weight: 30
+        - name: Musique
+          pageRef: /categories/musique
+          weight: 40
+        - name: Étiquettes
+          pageRef: /tags
+          weight: 50
+        - name: À propos
+          pageRef: /about
+          weight: 60
+    params:
+      dateFormat: "2006-01-02"
+      author: Benjamin Geer
