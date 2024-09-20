@@ -16,7 +16,7 @@ params:
   # images:
     # Default image used in Open Graph, see https://gohugo.io/templates/embedded/#configure-open-graph
     # - favicon.ico # /static/favicon.ico
-  math: true
+  math: false
 
 frontmatter:
   lastmod: ['lastmod', ':default'] # lastmod in front matter has highest precedence
