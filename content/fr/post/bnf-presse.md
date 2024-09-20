@@ -67,8 +67,9 @@ Mais il n'y pas de telle extension pour votre téléphone. Dans ce contexte-là,
 
 1. Copier le titre de l'article.
 2. Visiter [easyBnF](https://easybnf.fr/) et cliquer sur Europresse.
-3. Taper `TIT_HEAD=` et coller le titre après le signe égal.
-4. Cliquer sur la loupe pour lancer la recherche.
+3. Cliquer sur **Recherche avancée**.
+4. Coller le titre la où il y a écrit **dans le titre**.
+5. Cliquer sur **Recherche**.
 
 ### Lecture sur PressReader
 
