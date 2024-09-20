@@ -11,6 +11,6 @@ Mail: [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
 
 Mastodon: [@benjamingeer@zirk.us](https://zirk.us/@benjamingeer)
 
-## Academic work
+## Travaux de recherche
 
 Vous pouvez télécharger toutes mes publications en accès libre sur ma page [ORCID](https://orcid.org/0000-0002-2449-8558).
