@@ -12,7 +12,7 @@ Beaucoup de titres de presse sont réservés aux abonnés et les abonnements peu
 - [Alternatives économiques](https://www.alternatives-economiques.fr/)
 - [Le Monde](https://www.lemonde.fr/)
 - [Libération](https://www.liberation.fr/)
-- [Le monde diplomatique](https://www.monde-diplomatique.fr/)
+- [Le Monde diplomatique](https://www.monde-diplomatique.fr/)
 - [Arrêt sur images](https://www.arretsurimages.net/)
 - [The New York Times](https://www.nytimes.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
