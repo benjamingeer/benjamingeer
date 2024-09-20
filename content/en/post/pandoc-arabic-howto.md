@@ -109,7 +109,7 @@ For each article, make a subdirectory in the vault, e.g. `article-01`, and put t
 include ../rules.mk
 ```
 
-Use Obsidian to write the article in Markdown in the same subdirectory. At the top of the Markdown file, put the pandoc variables that are specific to that article (these are calld "properties" in Obsidian), e.g.:
+Use Obsidian to write the article in Markdown in the same subdirectory. At the top of the Markdown file, put the pandoc variables that are specific to that article (these are called "properties" in Obsidian), e.g.:
 
 ```
 ---
