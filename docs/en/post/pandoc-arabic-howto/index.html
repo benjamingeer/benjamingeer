@@ -6,15 +6,15 @@
 <title>How to make Arabic PDFs with Markdown and pandoc | Benjamin Geer</title>
 <link rel="icon" href="/favicon.ico" />
 
-<meta name="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
+<meta name="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة . This assumes you’re using Linux or a similar environment, and are comfortable with the command line. The basic idea is to to use pandoc to convert the Markown to \(\rm\LaTeX\) markup, and tell pandoc to run LuaTeX to generate the PDF.
 You’ll need:
-A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+A Markdown editor that handles Arabic text well. I recommend Obsidian , which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic . Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive . If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code . Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
 <meta property="og:url" content="https://benjamingeer.name/en/post/pandoc-arabic-howto/">
   <meta property="og:site_name" content="Benjamin Geer">
   <meta property="og:title" content="How to make Arabic PDFs with Markdown and pandoc">
-  <meta property="og:description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
+  <meta property="og:description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة . This assumes you’re using Linux or a similar environment, and are comfortable with the command line. The basic idea is to to use pandoc to convert the Markown to \(\rm\LaTeX\) markup, and tell pandoc to run LuaTeX to generate the PDF.
 You’ll need:
-A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+A Markdown editor that handles Arabic text well. I recommend Obsidian , which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic . Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive . If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code . Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
   <meta property="og:locale" content="en_GB">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -24,16 +24,28 @@ A Markdown editor that handles Arabic text well. I recommend Obsidian, which is 
 
 
   <meta itemprop="name" content="How to make Arabic PDFs with Markdown and pandoc">
-  <meta itemprop="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
+  <meta itemprop="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة . This assumes you’re using Linux or a similar environment, and are comfortable with the command line. The basic idea is to to use pandoc to convert the Markown to \(\rm\LaTeX\) markup, and tell pandoc to run LuaTeX to generate the PDF.
 You’ll need:
-A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+A Markdown editor that handles Arabic text well. I recommend Obsidian , which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic . Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive . If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code . Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
   <meta itemprop="datePublished" content="2024-09-19T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-09-19T00:00:00+00:00">
-  <meta itemprop="wordCount" content="555">
+  <meta itemprop="wordCount" content="586">
   <meta itemprop="keywords" content="Computers">
 
 
       <link rel="stylesheet" href="/css/style.min.8d4e995ae1264a896251c5b7e6858d44b5e1c5607d196136eaed410427394a1e.css" integrity="sha256-jU6ZWuEmSoliUcW35oWNRLXhxWB9GWE26u1BBCc5Sh4=" crossorigin="anonymous">
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)']]                  
+    }
+  };
+</script>
+
+
 <link rel="me" href="https://zirk.us/@benjamingeer" />
 </head>
 <body class="body">
@@ -91,16 +103,31 @@ A Markdown editor that handles Arabic text well. I recommend Obsidian, which is 
 </nav>
   </details>
 
-  <p>Here&rsquo;s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I&rsquo;ve done for <a href="https://%D9%83%D9%88%D9%83%D8%A8%D9%86%D8%A7.%D8%B4%D8%A8%D9%83%D8%A9">كوكبنا.شبكة</a>. This assumes you&rsquo;re using Linux or a similar environment, and are comfortable with the command line.</p>
+  <p>Here&rsquo;s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I&rsquo;ve done for <a href="https://%d9%83%d9%88%d9%83%d8%a8%d9%86%d8%a7.%d8%b4%d8%a8%d9%83%d8%a9" target="_blank">كوكبنا.شبكة</a>
+. This assumes you&rsquo;re using Linux or a similar environment, and are comfortable with the command line.
+The basic idea is to to use <a href="https://pandoc.org/" target="_blank">pandoc</a>
+ to convert the Markown to <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank">\(\rm\LaTeX\)</a>
+ markup, and tell pandoc to run <a href="https://www.luatex.org/" target="_blank">LuaTeX</a>
+ to generate the PDF.</p>
 <p>You&rsquo;ll need:</p>
 <ul>
-<li>A Markdown editor that handles Arabic text well. I recommend <a href="https://obsidian.md/">Obsidian</a>, which is user-friendly and has good built-in right-to-left text support. You can add the <a href="https://github.com/esm7/obsidian-rtl">Obsidian RTL Plugin</a> to get a few improvements.</li>
-<li>A good Arabic font that&rsquo;s convenient for text editing, such as <a href="https://fonts.google.com/noto/specimen/Noto+Naskh+Arabic">Noto Naskh Arabic</a>.</li>
-<li>Some good Arabic fonts for your PDFs, such as <a href="https://fonts.google.com/specimen/Amiri">Amiri</a> for body text and <a href="https://fonts.google.com/specimen/Cairo">Cairo</a> for headings.</li>
-<li>The <a href="https://www.luatex.org/">LuaTeX</a> typesetter, which you can get by installing <a href="https://www.tug.org/texlive/">TeXlive</a>. If you&rsquo;re not sure what you need, just install the whole TeXlive distribution.</li>
-<li><a href="https://pandoc.org/">pandoc</a></li>
-<li><a href="https://www.gnu.org/software/make/">GNU Make</a></li>
-<li>An ordinary text editor for writing Makefiles and the like, such as <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</li>
+<li>A Markdown editor that handles Arabic text well. I recommend <a href="https://obsidian.md/" target="_blank">Obsidian</a>
+, which is user-friendly and has good built-in right-to-left text support. You can add the <a href="https://github.com/esm7/obsidian-rtl" target="_blank">Obsidian RTL Plugin</a>
+ to get a few improvements.</li>
+<li>A good Arabic font that&rsquo;s convenient for text editing, such as <a href="https://fonts.google.com/noto/specimen/Noto&#43;Naskh&#43;Arabic" target="_blank">Noto Naskh Arabic</a>
+.</li>
+<li>Some good Arabic fonts for your PDFs, such as <a href="https://fonts.google.com/specimen/Amiri" target="_blank">Amiri</a>
+ for body text and <a href="https://fonts.google.com/specimen/Cairo" target="_blank">Cairo</a>
+ for headings.</li>
+<li>The <a href="https://www.luatex.org/" target="_blank">LuaTeX</a>
+ typesetter, which you can get by installing <a href="https://www.tug.org/texlive/" target="_blank">TeXlive</a>
+. If you&rsquo;re not sure what you need, just install the whole TeXlive distribution.</li>
+<li><a href="https://pandoc.org/" target="_blank">pandoc</a>
+</li>
+<li><a href="https://www.gnu.org/software/make/" target="_blank">GNU Make</a>
+</li>
+<li>An ordinary text editor for writing Makefiles and the like, such as <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
+.</li>
 </ul>
 <h2 class="heading" id="top-level-directory">
   Top-level directory<span class="heading__anchor"> <a href="#top-level-directory">#</a></span>
@@ -131,7 +158,8 @@ A Markdown editor that handles Arabic text well. I recommend Obsidian, which is 
 </div><h3 class="heading" id="shared-latex-formatting">
   Shared LaTeX formatting<span class="heading__anchor"> <a href="#shared-latex-formatting">#</a></span>
 </h3><p>Create a file <code>header.tex</code>, containing LaTeX formatting commands to be used for all the articles. Here I&rsquo;m
-following <a href="https://latex3.github.io/babel/guides/which-method-for-which-language.html">the advice in the Babel documentation</a>,
+following <a href="https://latex3.github.io/babel/guides/which-method-for-which-language.html" target="_blank">the advice in the Babel documentation</a>
+,
 and I&rsquo;ve added some commands to make the output look better, by:</p>
 <ul>
 <li>Increasing the default text size (<code>Scale=1.2</code>).</li>

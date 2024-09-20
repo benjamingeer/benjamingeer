@@ -16,6 +16,7 @@ params:
   # images:
     # Default image used in Open Graph, see https://gohugo.io/templates/embedded/#configure-open-graph
     # - favicon.ico # /static/favicon.ico
+  math: true
 
 frontmatter:
   lastmod: ['lastmod', ':default'] # lastmod in front matter has highest precedence
@@ -25,7 +26,19 @@ markup:
   goldmark:
     renderer:
       unsafe: true # Allow HTML code in Markdown, see https://gohugo.io/getting-started/configuration-markup/#rendererunsafe
-
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+  
 # Any key not defined under a languages will fall back to the global value in the root of configuration
 languages:
   en:
