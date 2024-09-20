@@ -63,13 +63,13 @@ En effet, pour les titres auxquels Europresse donne accès mais qu'il ne propose
 
 Sur un ordinateur, je vous conseille d'installer plutôt l'extension [Ophirofox](https://ophirofox.ophir.dev/) dans votre navigateur (Firefox ou Chrome). Quand vous naviguez sur le site d'un journal compatible, l'extension ajoute un bouton **Lire sur Europresse** sur les articles réservés aux abonnés. En réalité ce bouton ne fait qu'ouvrir le site d'Europresse, saisir le titre de l'article que vous regardiez et lancer la recherche, ce qui fait gagner du temps.
 
-Mais il n'y pas de telle extension pour votre téléphone. Dans ce contexte-là, il faut donc :
+Mais il n'y pas de telle extension pour votre téléphone. Dans ce contexte-là :
 
-1. Copier le titre de l'article.
-2. Visiter [easyBnF](https://easybnf.fr/) et cliquer sur Europresse.
-3. Cliquer sur **Recherche avancée**.
-4. Coller le titre la où il y a écrit **dans le titre**.
-5. Cliquer sur **Recherche**.
+1. Copiez le titre de l'article.
+2. Visitez [easyBnF](https://easybnf.fr/) et cliquez sur Europresse.
+3. Cliquez sur **Recherche avancée**.
+4. Collez le titre la où il y a écrit **dans le titre**.
+5. Cliquez sur **Recherche**.
 
 ### Lecture sur PressReader
 
