@@ -8,13 +8,13 @@
 
 <meta name="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
 You’ll need:
-A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian requires a directory that it calls a “vault”, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
 <meta property="og:url" content="https://benjamingeer.name/en/post/pandoc-arabic-howto/">
   <meta property="og:site_name" content="Benjamin Geer">
   <meta property="og:title" content="How to make Arabic PDFs with Markdown and pandoc">
   <meta property="og:description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
 You’ll need:
-A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian requires a directory that it calls a “vault”, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
   <meta property="og:locale" content="en_GB">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -26,10 +26,10 @@ A Markdown editor that handles Arabic text well. I recommend Obsidian, which is 
   <meta itemprop="name" content="How to make Arabic PDFs with Markdown and pandoc">
   <meta itemprop="description" content="Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line.
 You’ll need:
-A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian requires a directory that it calls a “vault”, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
+A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.">
   <meta itemprop="datePublished" content="2024-09-19T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-09-19T00:00:00+00:00">
-  <meta itemprop="wordCount" content="543">
+  <meta itemprop="wordCount" content="552">
   <meta itemprop="keywords" content="Computers">
 
 
@@ -104,12 +104,12 @@ A Markdown editor that handles Arabic text well. I recommend Obsidian, which is 
 </ul>
 <h2 class="heading" id="top-level-directory">
   Top-level directory<span class="heading__anchor"> <a href="#top-level-directory">#</a></span>
-</h2><p>Obsidian requires a directory that it calls a &ldquo;vault&rdquo;, where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.</p>
-<p>Create a directory for a vault that will contain Arabic articles. In Obsidian, create a vault in that directory.</p>
-<p>I prefer to make a subdirectory for each article, and to keep shared configuration in the top-level directory of the vault.</p>
+</h2><p>Obsidian expects you to put Markdown files in a directory tree that it configures as a &ldquo;vault&rdquo;. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.</p>
+<p>Create a directory that will contain Arabic articles. In Obsidian, create a vault in that directory. This just means that it creates a hidden subdirectory called <code>.obsidian</code>; don&rsquo;t put anything in that subdirectory.</p>
+<p>I prefer to make a subdirectory for each article, and to keep shared configuration in the top-level directory.</p>
 <h3 class="heading" id="shared-pandoc-variables">
   Shared pandoc variables<span class="heading__anchor"> <a href="#shared-pandoc-variables">#</a></span>
-</h3><p>In the top-level directory of the vault, create a file <code>variables.md</code>, containing pandoc variables to be used for all the articles.</p>
+</h3><p>In the top-level directory you created, create a file <code>variables.md</code>, containing pandoc variables to be used for all the articles.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -233,7 +233,7 @@ and I&rsquo;ve added some commands to make the output look better, by:</p>
 </div>
 </div><h2 class="heading" id="articles">
   Articles<span class="heading__anchor"> <a href="#articles">#</a></span>
-</h2><p>For each article, make a subdirectory in the vault, e.g. <code>article-01</code>, and put the following <code>Makefile</code> in it:</p>
+</h2><p>For each article, make a subdirectory, e.g. <code>article-01</code>, and put the following <code>Makefile</code> in it:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1

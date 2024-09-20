@@ -22,15 +22,15 @@ You'll need:
 
 ## Top-level directory
 
-Obsidian requires a directory that it calls a "vault", where you store your Markdown files. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.
+Obsidian expects you to put Markdown files in a directory tree that it configures as a "vault". You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.
 
-Create a directory for a vault that will contain Arabic articles. In Obsidian, create a vault in that directory.
+Create a directory that will contain Arabic articles. In Obsidian, create a vault in that directory. This just means that it creates a hidden subdirectory called `.obsidian`; don't put anything in that subdirectory.
 
-I prefer to make a subdirectory for each article, and to keep shared configuration in the top-level directory of the vault.
+I prefer to make a subdirectory for each article, and to keep shared configuration in the top-level directory.
 
 ### Shared pandoc variables
 
-In the top-level directory of the vault, create a file `variables.md`, containing pandoc variables to be used for all the articles.
+In the top-level directory you created, create a file `variables.md`, containing pandoc variables to be used for all the articles.
 
 ```
 ---
@@ -103,7 +103,7 @@ clean:
 
 ## Articles
 
-For each article, make a subdirectory in the vault, e.g. `article-01`, and put the following `Makefile` in it:
+For each article, make a subdirectory, e.g. `article-01`, and put the following `Makefile` in it:
 
 ```
 include ../rules.mk
