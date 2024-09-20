@@ -2,6 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://benjamingeer.name/fr/</loc>
+    <lastmod>2024-09-20T14:20:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/fr/categories/</loc>
+    <lastmod>2024-09-20T14:20:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/categories/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/fr/tags/informatique/</loc>
+    <lastmod>2024-09-20T14:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/fr/post/bnf-presse/</loc>
+    <lastmod>2024-09-20T14:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/fr/post/</loc>
+    <lastmod>2024-09-20T14:20:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/fr/tags/</loc>
+    <lastmod>2024-09-20T14:20:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/tags/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/fr/categories/tutoriels/</loc>
+    <lastmod>2024-09-20T14:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/fr/categories/musique/</loc>
+    <lastmod>2024-09-20T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/fr/categories/projets/</loc>
+    <lastmod>2024-09-20T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/fr/post/tondauer/</loc>
+    <lastmod>2024-09-20T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/tondauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/tondauer/"
+                />
+  </url><url>
     <loc>https://benjamingeer.name/fr/about/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,64 +95,6 @@
                 href="https://benjamingeer.name/fr/about/"
                 />
   </url><url>
-    <loc>https://benjamingeer.name/fr/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/fr/categories/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/categories/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/fr/categories/musique/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/fr/post/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/fr/categories/projets/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/fr/post/tondauer/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/post/tondauer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/tondauer/"
-                />
-  </url><url>
     <loc>https://benjamingeer.name/fr/post/accicalc/</loc>
     <lastmod>2023-10-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -84,22 +106,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/post/accicalc/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/fr/tags/informatique/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/fr/tags/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/tags/"
                 />
   </url><url>
     <loc>https://benjamingeer.name/fr/post/hensel-september/</loc>
