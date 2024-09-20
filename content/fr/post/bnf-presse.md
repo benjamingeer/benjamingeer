@@ -61,7 +61,7 @@ Cela vaut entre autres pour :
 
 En effet, pour les titres auxquels Europresse donne accès mais qu'il ne propose pas au format PDF, il affiche le texte intégral des articles sur son propre site. L'inconvénient, c'est qu'il ne propose aucune navigation et s'attend à ce que vous trouviez chaque article en utilisant son moteur de recherche.
 
-Sur un ordinateur de bureau, je vous conseille d'installer plutôt l'extension [Ophirofox](https://ophirofox.ophir.dev/) dans votre navigateur (Firefox ou Chrome). Quand vous naviguez sur le site d'un journal compatible, l'extension ajoute un bouton **Lire sur Europresse** sur les articles réservés aux abonnés. En réalité ce bouton ne fait qu'ouvrir le site d'Europresse, saisir le titre de l'article que vous regardiez et lancer la recherche, ce qui fait gagner du temps.
+Sur un ordinateur, je vous conseille d'installer plutôt l'extension [Ophirofox](https://ophirofox.ophir.dev/) dans votre navigateur (Firefox ou Chrome). Quand vous naviguez sur le site d'un journal compatible, l'extension ajoute un bouton **Lire sur Europresse** sur les articles réservés aux abonnés. En réalité ce bouton ne fait qu'ouvrir le site d'Europresse, saisir le titre de l'article que vous regardiez et lancer la recherche, ce qui fait gagner du temps.
 
 Mais il n'y pas de telle extension pour votre téléphone. Dans ce contexte-là, il faut donc :
 
