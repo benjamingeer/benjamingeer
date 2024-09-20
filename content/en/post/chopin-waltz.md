@@ -5,6 +5,8 @@ categories:
 - Music
 tags:
 - Chopin
+aliases:
+- /post/chopin-waltz/
 ---
 
 {{< peertube makertube.net 4d42551a-74b8-454b-a429-2e87807c2f59 >}}

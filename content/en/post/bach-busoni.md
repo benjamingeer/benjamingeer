@@ -5,6 +5,8 @@ categories:
 - Music
 tags:
 - Bach
+aliases:
+- /post/bach-busoni/
 ---
 
 {{< soundcloud 1127316505 >}}

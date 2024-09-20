@@ -5,6 +5,8 @@ categories:
 - Music
 tags:
 - Hensel
+aliases:
+- /post/hensel-september/
 ---
 
 {{< peertube makertube.net 7e2cc234-94af-4e82-8ffe-228b2e0dd02c >}}

@@ -5,6 +5,8 @@ categories:
 - Music
 tags:
 - Jazz
+aliases:
+- /post/jazz-guitarist/
 ---
 
 I started playing jazz guitar around the time I went to university. I
