@@ -3,7 +3,7 @@ title: À propos
 date: 2024-09-20
 ---
 
-Je suis développeur de logiciels et ancien universitaire (sociologie, histoire conceptuelle, linguistique cognitive, culture arabe, humanités humériques).
+Je suis développeur de logiciels et ancien universitaire (sociologie, histoire conceptuelle, linguistique cognitive, culture arabe, humanités numériques).
 
 ## Contact
 
