@@ -14,7 +14,7 @@ You'll need:
 
 - A Markdown editor that handles Arabic text well. I recommend [Obsidian](https://obsidian.md/), which is user-friendly and has good built-in right-to-left text support. You can add the [Obsidian RTL Plugin](https://github.com/esm7/obsidian-rtl) to get a few improvements.
 - A good Arabic font that's convenient for text editing, such as [Noto Naskh Arabic](https://fonts.google.com/noto/specimen/Noto+Naskh+Arabic).
-- Some good Arabic fonts for your PDFs, such as [Amiri](https://fonts.google.com/specimen/Amiri) for body text and (Cairo)[https://fonts.google.com/specimen/Cairo] for headings.
+- Some good Arabic fonts for your PDFs, such as [Amiri](https://fonts.google.com/specimen/Amiri) for body text and [Cairo](https://fonts.google.com/specimen/Cairo) for headings.
 - The [LuaTeX](https://www.luatex.org/) typesetter, which you can get by installing [TeXlive](https://www.tug.org/texlive/). If you're not sure what you need, just install the whole TeXlive distribution.
 - [pandoc](https://pandoc.org/)
 - [GNU Make](https://www.gnu.org/software/make/)
