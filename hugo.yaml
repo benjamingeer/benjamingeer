@@ -50,7 +50,7 @@ languages:
     weight: 10
     menus:
       main:
-        - name: Blog
+        - name: Home
           pageRef: /
           weight: 10
         - name: Projects
@@ -76,7 +76,7 @@ languages:
     weight: 20
     menus:
       main:
-        - name: Blog
+        - name: Accueil
           pageRef: /
           weight: 10
         - name: Projets
@@ -94,3 +94,30 @@ languages:
     params:
       dateFormat: "2006-01-02"
       author: Benjamin Geer
+  ar:
+    contentDir: content/ar
+    languageCode: ar
+    languageDirection: rtl
+    languageName: العربية
+    title: بنجامين گير
+    weight: 30
+    menus:
+      main:
+        - name: رئيسية
+          pageRef: /
+          weight: 10
+        - name: مشاريع
+          pageRef: /categories/مشاريع
+          weight: 30
+        # - name: مويسقى
+        #   pageRef: /categories/مويسقى
+        #   weight: 40
+        - name: وسوم
+          pageRef: /tags
+          weight: 50
+        - name: عنّي
+          pageRef: /about
+          weight: 60
+    params:
+      dateFormat: "2006-01-02" # See https://gohugo.io/functions/time/format/
+      author: بنجامين گير

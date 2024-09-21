@@ -7,9 +7,9 @@ Je suis développeur de logiciels et ancien universitaire (sociologie, histoire 
 
 ## Contact
 
-Mail: [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
+Mail : [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
 
-Mastodon: [@benjamingeer@zirk.us](https://zirk.us/@benjamingeer)
+Mastodon : [@benjamingeer@zirk.us](https://zirk.us/@benjamingeer)
 
 ## Travaux de recherche
 

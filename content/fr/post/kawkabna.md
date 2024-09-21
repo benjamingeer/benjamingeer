@@ -4,7 +4,7 @@ date: 2021-04-29
 categories:
 - Projets
 tags:
-- Arabe
+- Écologie
 ---
 
-Mon podcast occasionnel sur l'écologie, la migration et les inégalités : [كوكبنا.شبكة](https://كوكبنا.شبكة).
+Mon podcast occasionnel en arabe sur l'écologie, la migration et les inégalités : [كوكبنا.شبكة](https://كوكبنا.شبكة).

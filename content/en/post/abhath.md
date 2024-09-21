@@ -5,7 +5,6 @@ categories:
 - Projects
 tags:
 - Sociology
-- Arabic
 ---
 
 My old Arabic blog on which I summarised research that I thought was interesting: [أبحاث لفتت نظري](https://benjamingeer.blogspot.com/).

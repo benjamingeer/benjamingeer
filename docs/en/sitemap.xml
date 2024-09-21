@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-GB"
                 href="https://benjamingeer.name/en/about/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +47,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-GB"
                 href="https://benjamingeer.name/en/categories/"
                 />
@@ -50,6 +65,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -85,6 +105,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -186,7 +211,7 @@
                 href="https://benjamingeer.name/en/post/bach-busoni/"
                 />
   </url><url>
-    <loc>https://benjamingeer.name/en/tags/arabic/</loc>
+    <loc>https://benjamingeer.name/en/tags/ecology/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/en/post/kawkabna/</loc>
@@ -195,6 +220,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/post/kawkabna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/kawkabna/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -240,6 +270,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/socioresources/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-GB"
                 href="https://benjamingeer.name/en/post/socioresources/"
                 />
@@ -250,6 +285,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/post/abhath/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/abhath/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -5,7 +5,6 @@ categories:
 - Projects
 tags:
 - Sociology
-- Arabic
 ---
 
 [My old blog](https://socioresources.net/blog/) on the sociology of autonomy and the autonomy of sociology.

@@ -5,7 +5,6 @@ categories:
 - Projets
 tags:
 - Sociologie
-- Arabe
 ---
 
 [Mon ancien blog](https://ressources-sociologiques.net/blog/) sur la sociologie de l'autonomie et l'autonomie de la sociologie.
