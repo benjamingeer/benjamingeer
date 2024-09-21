@@ -6,7 +6,7 @@ categories:
   - Musique
 ---
 
-Il y a quelques années, j'ai commencé un projet qui s'appelle [Tondauer](https://tondauer.art/fr/), pour faire des éditions musicales sous licence Creative Commons. C'est arrivé à cause du confinement lié au Covid-19 en 2020. J'apprenais à jouer le
+Il y a quelques années, j'ai commencé un projet qui s'appelle [Tondauer](https://tondauer.art/fr/), pour faire des éditions de partitions sous licence Creative Commons. C'est arrivé à cause du confinement lié au Covid-19 en 2020. J'apprenais à jouer le
 [Prélude Op. 104a, n° 2 (MSV U 123)](https://tondauer.art/fr/2021/03/mendelssohn-prelude-mwv-u-123/) de Felix Mendelssohn, parce qu'il convenait bien à mon sentiment de frustration et à mon humeur agitée à l'époque.
 
 J'ai commencé par une édition du XIXe siècle qui pouvait être téléchargée gratuitement. Puis j'ai acheté une édition qui proposait des doigtés, et je me suis demandé pourquoi elle avait des notes différentes. J'ai cherché sans succès le manuscrit du compositeur, ne trouvant qu'un brouillon antérieur. Ayant lu la biographie de Mendelssohn écrite par R. Larry Todd, je lui ai envoyé un mail pour lui demander s'il savait où se trouvait le manuscrit de la version finale. Il m'a répondu que celui-ci n'avait pas été trouvé. Cela signifiait que les seules sources étaient les premières éditions, publiées après la mort du compositeur.

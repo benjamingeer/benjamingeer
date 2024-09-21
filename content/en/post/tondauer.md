@@ -6,7 +6,7 @@ categories:
   - Music
 ---
 
-A few years ago, I started a project called [Tondauer](https://tondauer.art/), to make Creative Commons licensed musical editions. It happened because of the Covid-19 lockdown in 2020: I was learning to play [Felix Mendelssohn's Prelude Op. 104a, No. 2 (MWV U 123)](https://tondauer.art/2021/03/mendelssohn-prelude-mwv-u-123/), because it suited my mood of restless frustration at the time.
+A few years ago, I started a project called [Tondauer](https://tondauer.art/), to make Creative Commons licensed editions of sheet music. It happened because of the Covid-19 lockdown in 2020: I was learning to play [Felix Mendelssohn's Prelude Op. 104a, No. 2 (MWV U 123)](https://tondauer.art/2021/03/mendelssohn-prelude-mwv-u-123/), because it suited my mood of restless frustration at the time.
 
 I started with a 19th-century edition that could be downloaded for free. Then I bought an edition with fingerings, and wondered why it had different notes. I looked in vain for the composer's manuscript, but found only an earlier draft. I had been reading R. Larry Todd's biography of Mendelssohn, so I emailed him to ask if he knew where the manuscript of the final version was, and he replied that it hadn't been found. This meant that the only sources were the first editions, which were published after the composer's death.
 
