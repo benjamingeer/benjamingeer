@@ -1,9 +1,9 @@
 ---
 title: Tondauer
-date: 2024-09-20
+date: 2024-09-21
 categories:
-- Projects
-- Music
+  - Projects
+  - Music
 ---
 
 A few years ago, I started a project called [Tondauer](https://tondauer.art/), to make Creative Commons licensed musical editions. It happened because of the Covid-19 lockdown in 2020: I was learning to play [Felix Mendelssohn's Prelude Op. 104a, No. 2 (MWV U 123)](https://tondauer.art/2021/03/mendelssohn-prelude-mwv-u-123/), because it suited my mood of restless frustration.

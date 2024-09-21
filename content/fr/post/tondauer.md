@@ -1,9 +1,9 @@
 ---
 title: Tondauer
-date: "2024-09-20T10:00:00Z"
+date: 2024-09-21
 categories:
-- Projets
-- Musique
+  - Projets
+  - Musique
 ---
 
 Il y a quelques années, j'ai commencé un projet qui s'appelle [Tondauer](https://tondauer.art/fr/), pour faire des éditions musicales sous licence Creative Commons. C'est arrivé à cause du confinement lié au Covid-19 en 2020. J'apprenais à jouer le

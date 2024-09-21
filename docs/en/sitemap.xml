@@ -2,26 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://benjamingeer.name/en/about/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/about/"
-                />
-  </url><url>
     <loc>https://benjamingeer.name/en/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -39,7 +21,7 @@
                 />
   </url><url>
     <loc>https://benjamingeer.name/en/categories/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -57,10 +39,10 @@
                 />
   </url><url>
     <loc>https://benjamingeer.name/en/categories/music/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/en/post/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -78,10 +60,10 @@
                 />
   </url><url>
     <loc>https://benjamingeer.name/en/categories/projects/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/en/post/tondauer/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -91,6 +73,24 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="https://benjamingeer.name/en/post/tondauer/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/en/about/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/about/"
                 />
   </url><url>
     <loc>https://benjamingeer.name/en/tags/computers/</loc>
