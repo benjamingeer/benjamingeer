@@ -6,8 +6,6 @@ tags:
   - Computers
 categories:
   - Tutorials
-params:
-  math: true
 ---
 
 Here's one way to write Arabic articles in Markdown format and typeset them as PDF files, as I've done for [كوكبنا.شبكة](https://كوكبنا.شبكة). This assumes you're using Linux or a similar environment, and are comfortable with the command line.
