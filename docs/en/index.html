@@ -26,8 +26,8 @@
 <script>
   MathJax = {
     tex: {
-      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
-      inlineMath: [['\\(', '\\)']]                  
+      displayMath: [['$$', '$$']], 
+      inlineMath: [['$', '$']] 
     }
   };
 </script>
@@ -75,7 +75,7 @@ I started with a 19th-century edition that could be downloaded for free. Then I 
   
     <h2 class="home-post-title"><a href="/en/post/pandoc-arabic-howto/">How to make Arabic PDFs with Markdown and pandoc</a></h2>
     <time class="published-date" datetime="2024-09-19T00:00:00&#43;00:00">2024-09-19</time>
-    <p class="summary">Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line. The basic idea is to to use pandoc to convert the Markown to \(\rm\LaTeX\) markup, and tell pandoc to run LuaTeX to generate the PDF.
+    <p class="summary">Here’s one way to write Arabic articles in Markdown format and typeset them as PDF files, as I’ve done for كوكبنا.شبكة. This assumes you’re using Linux or a similar environment, and are comfortable with the command line. The basic idea is to to use pandoc to convert the Markown to $\mathrm{\LaTeX}$ markup, and tell pandoc to run LuaTeX to generate the PDF.
 You’ll need:
 A Markdown editor that handles Arabic text well. I recommend Obsidian, which is user-friendly and has good built-in right-to-left text support. You can add the Obsidian RTL Plugin to get a few improvements. A good Arabic font that’s convenient for text editing, such as Noto Naskh Arabic. Some good Arabic fonts for your PDFs, such as Amiri for body text and Cairo for headings. The LuaTeX typesetter, which you can get by installing TeXlive. If you’re not sure what you need, just install the whole TeXlive distribution. pandoc GNU Make An ordinary text editor for writing Makefiles and the like, such as Visual Studio Code. Top-level directory # Obsidian expects you to put Markdown files in a directory tree that it configures as a “vault”. You can have multiple vaults, but it stores its own configuration and plugins separately in each vault.</p>
   

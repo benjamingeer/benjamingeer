@@ -9,7 +9,7 @@ categories:
 ---
 
 Here's one way to write Arabic articles in Markdown format and typeset them as PDF files, as I've done for [كوكبنا.شبكة](https://كوكبنا.شبكة). This assumes you're using Linux or a similar environment, and are comfortable with the command line.
-The basic idea is to to use [pandoc](https://pandoc.org/) to convert the Markown to [\(\rm\LaTeX\)](https://en.wikipedia.org/wiki/LaTeX) markup, and tell pandoc to run [LuaTeX](https://www.luatex.org/) to generate the PDF.
+The basic idea is to to use [pandoc](https://pandoc.org/) to convert the Markown to [$\mathrm{\LaTeX}$](https://en.wikipedia.org/wiki/LaTeX) markup, and tell pandoc to run [LuaTeX](https://www.luatex.org/) to generate the PDF.
 
 You'll need:
 
