@@ -1,7 +1,7 @@
 ---
 title: How to make Arabic PDFs with Markdown and pandoc
 type: post
-date: 2024-09-19
+date: 2024-09-21
 tags:
   - Computers
 categories:
