@@ -20,7 +20,7 @@
       <link>https://benjamingeer.name/en/post/accicalc/</link>
       <pubDate>Fri, 20 Sep 2024 16:00:00 +0000</pubDate>
       <guid>https://benjamingeer.name/en/post/accicalc/</guid>
-      <description>&lt;p&gt;In 2023 I wrote a program that makes spreadsheets of data about traffic accidents in France: &lt;a href=&#34;https://github.com/benjamingeer/accicalc&#34; target=&#34;_blank&#34;&gt;accicalc&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
+      <description>&lt;p&gt;In 2023 I wrote a program that makes spreadsheets of data about traffic accidents in France: &lt;a href=&#34;https://github.com/benjamingeer/accicalc&#34; target=&#34;_blank&#34;&gt;accicalc&lt;/a&gt;. The data is available online, but difficult to work with. This little program is useful if, for example, you want details of all accidents involving pedestrians or cyclists in a given municipality, including the address or geographical coordinates.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
