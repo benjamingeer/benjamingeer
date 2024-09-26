@@ -1,6 +1,6 @@
 ---
 title: Lire la presse avec un pass de la BnF
-date: 2024-09-20T14:20:00Z
+date: 2024-09-21
 categories:
   - Tutoriels
 tags:
