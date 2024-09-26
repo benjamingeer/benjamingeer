@@ -10,7 +10,7 @@ tags:
 
 \[English version of the text published in Spanish.[^Geer]\]
 
-Sherif Younis, الزحف المقدس: مظاهرات التنهي وتشكل عبادة ناصر [The Sacred March: The Demonstrations Against Nasser's Resignation and the Formation of his Cult], 1st edition, Cairo, Dar Mirit, 2005. 2nd revised edition, Beirut and Cairo, Dar al-Tanwir, 2012, 196 pages.
+Sherif Younis, الزحف المقدس: مظاهرات التنهي وتشكل عبادة ناصر [The Sacred March: The Demonstrations Against Nasser's Resignation and the Formation of His Cult], 1st edition, Cairo, Dar Mirit, 2005. 2nd revised edition, Beirut and Cairo, Dar al-Tanwir, 2012, 196 pages.
 
 In June 1967, when Gamal Abdel Nasser's military dictatorship in Egypt suffered a crushing defeat in the Six-Day War against Israel, Nasser immediately announced his resignation. Shortly afterwards, crowds demonstrated for two days across Egypt to beg him to change his mind, and Nasser responded to the outcry by remaining in office. In *The Sacred March*, the Egyptian historian Sherif Younis asks what led the Egyptian people to call for Nasser to remain in power. How did an authoritarian regime that was ruthless towards its citizens, and enforced political passivity by means of imprisonment and torture, manage to inspire such fervour? Some historians of Nasserism believe that these demonstrations were a response to the sincere emotions of the demonstrators, while others argue that they were organised by the regime. Taking an original approach to the study of Nasserism, Younis departs from these two interpretations. For him, the demonstrations in support of the leader, which were most likely spontaneous, were also a product of the ideology that the regime had put in place after the military coup of 1952.
 
