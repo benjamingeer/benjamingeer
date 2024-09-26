@@ -1,10 +1,10 @@
 ---
 title: أبحاث لفتت نظري
-date: 2009-08-23
+date: 2024-09-20
 categories:
-- Projects
+  - Projects
 tags:
-- Sociology
+  - Sociology
 ---
 
-My old Arabic blog on which I summarised research that I thought was interesting: [أبحاث لفتت نظري](https://benjamingeer.blogspot.com/).
+My old Arabic blog (2009-2014) on which I summarised research that I thought was interesting: [أبحاث لفتت نظري](https://benjamingeer.blogspot.com/).

@@ -1,10 +1,10 @@
 ---
 title: SocioResources
-date: 2013-10-16
+date: 2024-09-20
 categories:
-- Projects
+  - Projects
 tags:
-- Sociology
+  - Sociology
 ---
 
-[My old blog](https://socioresources.net/blog/) on the sociology of autonomy and the autonomy of sociology.
+[My old blog](https://socioresources.net/blog/) (2013-2021) on the sociology of autonomy and the autonomy of sociology.

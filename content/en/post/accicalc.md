@@ -1,10 +1,10 @@
 ---
 title: accicalc
-date: 2023-10-29
+date: 2024-09-20
 categories:
-- Projects
+  - Projects
 tags:
-- Computers
+  - Computers
 ---
 
 I wrote a program that makes spreadsheets of data about traffic accidents in France: [accicalc](https://github.com/benjamingeer/accicalc).

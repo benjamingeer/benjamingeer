@@ -127,7 +127,7 @@
                 />
   </url><url>
     <loc>https://benjamingeer.name/fr/post/accicalc/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -137,6 +137,63 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/post/accicalc/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/fr/tags/%C3%A9cologie/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/fr/post/socioresources/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/socioresources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/socioresources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/socioresources/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/fr/post/abhath/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/abhath/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/abhath/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/abhath/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/fr/post/kawkabna/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/kawkabna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/kawkabna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/kawkabna/"
                 />
   </url><url>
     <loc>https://benjamingeer.name/fr/post/hensel-september/</loc>
@@ -217,27 +274,6 @@
                 href="https://benjamingeer.name/fr/post/bach-busoni/"
                 />
   </url><url>
-    <loc>https://benjamingeer.name/fr/tags/%C3%A9cologie/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/fr/post/kawkabna/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/post/kawkabna/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/post/kawkabna/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/kawkabna/"
-                />
-  </url><url>
     <loc>https://benjamingeer.name/fr/post/jazz-guitarist/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -262,42 +298,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://benjamingeer.name/fr/tags/jazz/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/fr/post/socioresources/</loc>
-    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/post/socioresources/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/post/socioresources/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/socioresources/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/fr/post/abhath/</loc>
-    <lastmod>2009-08-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/post/abhath/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/post/abhath/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/abhath/"
                 />
   </url>
 </urlset>

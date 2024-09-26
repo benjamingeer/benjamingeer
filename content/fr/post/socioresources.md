@@ -1,10 +1,10 @@
 ---
 title: Ressources sociologiques
-date: 2013-10-16
+date: 2024-09-20
 categories:
-- Projets
+  - Projets
 tags:
-- Sociologie
+  - Sociologie
 ---
 
-[Mon ancien blog](https://ressources-sociologiques.net/blog/) sur la sociologie de l'autonomie et l'autonomie de la sociologie.
+[Mon ancien blog](https://ressources-sociologiques.net/blog/) (2013-2021) sur la sociologie de l'autonomie et l'autonomie de la sociologie.

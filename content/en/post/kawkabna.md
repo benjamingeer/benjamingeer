@@ -1,10 +1,10 @@
 ---
 title: كوكبنا
-date: 2021-04-29
+date: 2024-09-20
 categories:
-- Projects
+  - Projects
 tags:
-- Ecology
+  - Ecology
 ---
 
-My occasional Arabic-language podcast on ecology, migration, and inequality: [كوكبنا.شبكة](https://كوكبنا.شبكة).
+My occasional Arabic-language podcast (since 2021) on ecology, migration, and inequality: [كوكبنا.شبكة](https://كوكبنا.شبكة).

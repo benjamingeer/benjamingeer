@@ -1,10 +1,10 @@
 ---
 title: أبحاث لفتت نظري
-date: 2009-08-23
+date: 2024-09-20
 categories:
-- Projets
+  - Projets
 tags:
-- Sociologie
+  - Sociologie
 ---
 
-Mon ancien blog en arabe, sur lequel je résumais des recherches que je trouvais intéressantes : [أبحاث لفتت نظري](https://benjamingeer.blogspot.com/).
+Mon ancien blog en arabe (2009-2014), sur lequel je résumais des recherches que je trouvais intéressantes : [أبحاث لفتت نظري](https://benjamingeer.blogspot.com/).

@@ -2,6 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://benjamingeer.name/ar/post/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/ar/post/abhath/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/abhath/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/abhath/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/abhath/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/ar/tags/%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/ar/categories/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/categories/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/ar/categories/%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/ar/tags/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/tags/"
+                />
+  </url><url>
     <loc>https://benjamingeer.name/ar/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -19,6 +97,12 @@
                 hreflang="ar"
                 href="https://benjamingeer.name/ar/"
                 />
+  </url><url>
+    <loc>https://benjamingeer.name/ar/tags/%D8%A8%D9%8A%D8%A6%D8%A9/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benjamingeer.name/ar/tags/%D8%B9%D9%84%D9%85/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/ar/about/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
@@ -38,65 +122,8 @@
                 href="https://benjamingeer.name/ar/about/"
                 />
   </url><url>
-    <loc>https://benjamingeer.name/ar/post/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/post/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/ar/categories/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/categories/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/ar/tags/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/tags/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/ar/tags/%D8%A8%D9%8A%D8%A6%D8%A9/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://benjamingeer.name/ar/post/kawkabna/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -114,13 +141,10 @@
                 />
   </url><url>
     <loc>https://benjamingeer.name/ar/categories/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benjamingeer.name/ar/tags/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9/</loc>
-    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/ar/post/socioresources/</loc>
-    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -136,26 +160,5 @@
                 hreflang="ar"
                 href="https://benjamingeer.name/ar/post/socioresources/"
                 />
-  </url><url>
-    <loc>https://benjamingeer.name/ar/post/abhath/</loc>
-    <lastmod>2009-08-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/post/abhath/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/post/abhath/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/post/abhath/"
-                />
-  </url><url>
-    <loc>https://benjamingeer.name/ar/categories/%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9/</loc>
-    <lastmod>2009-08-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>
