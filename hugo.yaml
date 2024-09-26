@@ -57,6 +57,9 @@ languages:
         - name: Music
           pageRef: /categories/music
           weight: 40
+        - name: Reviews
+          pageRef: /categories/reviews
+          weight: 45
         - name: Tags
           pageRef: /tags
           weight: 50
@@ -83,6 +86,9 @@ languages:
         - name: Musique
           pageRef: /categories/musique
           weight: 40
+        - name: Recensions
+          pageRef: /categories/recensions
+          weight: 45
         - name: Étiquettes
           pageRef: /tags
           weight: 50

@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Benjamin Geer</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://benjamingeer.name/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reviews</title>
+      <link>https://benjamingeer.name/en/categories/reviews/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://benjamingeer.name/en/categories/reviews/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tutorials</title>
       <link>https://benjamingeer.name/en/categories/tutorials/</link>
