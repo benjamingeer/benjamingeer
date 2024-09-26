@@ -1,6 +1,6 @@
 ---
 title: أبحاث لفتت نظري
-date: 2024-09-20
+date: 2024-09-20T12:00:00Z
 categories:
   - Projets
 tags:

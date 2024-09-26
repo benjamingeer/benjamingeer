@@ -6,14 +6,14 @@
     <description>Recent content in Computers on Benjamin Geer</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://benjamingeer.name/en/tags/computers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>accicalc</title>
       <link>https://benjamingeer.name/en/post/accicalc/</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Sep 2024 16:00:00 +0000</pubDate>
       <guid>https://benjamingeer.name/en/post/accicalc/</guid>
-      <description>&lt;p&gt;I wrote a program that makes spreadsheets of data about traffic accidents in France: &lt;a href=&#34;https://github.com/benjamingeer/accicalc&#34; target=&#34;_blank&#34;&gt;accicalc&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
+      <description>&lt;p&gt;In 2023 I wrote a program that makes spreadsheets of data about traffic accidents in France: &lt;a href=&#34;https://github.com/benjamingeer/accicalc&#34; target=&#34;_blank&#34;&gt;accicalc&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>How to make Arabic PDFs with Markdown and pandoc</title>

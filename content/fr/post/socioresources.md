@@ -1,6 +1,6 @@
 ---
 title: Ressources sociologiques
-date: 2024-09-20
+date: 2024-09-20T13:00:00Z
 categories:
   - Projets
 tags:
