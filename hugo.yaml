@@ -113,8 +113,8 @@ languages:
         - name: مشاريع
           pageRef: /categories/مشاريع
           weight: 30
-        # - name: مويسقى
-        #   pageRef: /categories/مويسقى
+        # - name: ملاحظات
+        #   pageRef: /categories/ملاحظات
         #   weight: 40
         - name: وسوم
           pageRef: /tags
