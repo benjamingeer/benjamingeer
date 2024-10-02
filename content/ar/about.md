@@ -8,7 +8,7 @@ date: 2024-09-20
 
 عنوان البريد الإلكتروني الخاص بي: [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
 
-على ماستدون: [@benjamingeer@zirk.us](https://zirk.us/@benjamingeer)
+على ماستدون: [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
 
 ## مطبوعاتي
 

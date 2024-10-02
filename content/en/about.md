@@ -9,7 +9,7 @@ I'm a software developer and ex-academic (sociology, conceptual history, cogniti
 
 Email address: [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
 
-Mastodon: [@benjamingeer@zirk.us](https://zirk.us/@benjamingeer)
+Mastodon: [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
 
 ## Academic work
 
