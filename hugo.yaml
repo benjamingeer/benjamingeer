@@ -53,19 +53,22 @@ languages:
           weight: 10
         - name: Projects
           pageRef: /categories/projects
-          weight: 30
+          weight: 20
         - name: Music
           pageRef: /categories/music
-          weight: 40
+          weight: 30
         - name: Reviews
           pageRef: /categories/reviews
-          weight: 45
+          weight: 40
+        - name: Tutorials
+          pageRef: /categories/tutorials
+          weight: 50
         - name: Tags
           pageRef: /tags
-          weight: 50
+          weight: 60
         - name: About
           pageRef: /about
-          weight: 60
+          weight: 70
     params:
       dateFormat: "2006-01-02" # See https://gohugo.io/functions/time/format/
       author: Benjamin Geer # Default author, supports single value or list, used in single page
@@ -82,19 +85,22 @@ languages:
           weight: 10
         - name: Projets
           pageRef: /categories/projets
-          weight: 30
+          weight: 20
         - name: Musique
           pageRef: /categories/musique
-          weight: 40
+          weight: 30
         - name: Recensions
           pageRef: /categories/recensions
-          weight: 45
+          weight: 40
+        - name: Tutoriels
+          pageRef: /categories/tutoriels
+          weight: 50
         - name: Étiquettes
           pageRef: /tags
-          weight: 50
+          weight: 60
         - name: À propos
           pageRef: /about
-          weight: 60
+          weight: 70
     params:
       dateFormat: "2006-01-02"
       author: Benjamin Geer
