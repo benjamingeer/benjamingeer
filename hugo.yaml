@@ -108,12 +108,12 @@ languages:
     contentDir: content/ar
     languageCode: ar
     languageDirection: rtl
-    languageName: العربية
+    languageName: عربي
     title: بنجامين گير
     weight: 30
     menus:
       main:
-        - name: رئيسية
+        - name: الرئيسية
           pageRef: /
           weight: 10
         - name: مشاريع
