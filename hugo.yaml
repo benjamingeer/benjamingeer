@@ -117,7 +117,7 @@ languages:
           pageRef: /
           weight: 10
         - name: المشاريع
-          pageRef: /categories/المشاريع
+          pageRef: /categories/مشاريع
           weight: 30
         # - name: ملاحظات
         #   pageRef: /categories/ملاحظات
