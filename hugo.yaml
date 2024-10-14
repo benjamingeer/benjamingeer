@@ -116,13 +116,13 @@ languages:
         - name: الرئيسية
           pageRef: /
           weight: 10
-        - name: مشاريع
-          pageRef: /categories/مشاريع
+        - name: المشاريع
+          pageRef: /categories/المشاريع
           weight: 30
         # - name: ملاحظات
         #   pageRef: /categories/ملاحظات
         #   weight: 40
-        - name: وسوم
+        - name: الوسوم
           pageRef: /tags
           weight: 50
         - name: عنّي
