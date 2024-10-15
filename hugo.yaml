@@ -108,7 +108,7 @@ languages:
     contentDir: content/ar
     languageCode: ar
     languageDirection: rtl
-    languageName: عربي
+    languageName: العربية
     title: بنجامين گير
     weight: 30
     menus:
