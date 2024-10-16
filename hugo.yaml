@@ -119,8 +119,8 @@ languages:
         - name: المشاريع
           pageRef: /categories/مشاريع
           weight: 30
-        # - name: ملاحظات
-        #   pageRef: /categories/ملاحظات
+        # - name: مقالات
+        #   pageRef: /categories/مقالات
         #   weight: 40
         - name: الوسوم
           pageRef: /tags
