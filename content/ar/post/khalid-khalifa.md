@@ -34,4 +34,4 @@ categories:
 [^Watenpaugh]: Keith Watenpaugh, “Cleansing the Cosmopolitan City: Historicism, Journalism and the Arab Nation in the Post-Ottoman Eastern Mediterranean,” *Social History* 30, no. 1 (February 2005): 1–24, https://doi.org/10.1080/030710242000337260.
 [^Ergin]: Murat Ergin, *“Is the Turk a White Man?”: Race and Modernity in the Making of Turkish Identity* (Brill, 2017), 71. [ISBN 978-90-04-32433-6](https://www.worldcat.org/search?q=isbn%3A9789004324336).
 [^Bryer]: Anthony Bryer, "The Pontic Greeks before the Diaspora", *Journal of Refugee Studies*, Journal of Refugee Studies 4, no. 4 (October 1991): 315–334, https://doi.org/10.1093/jrs/4.4.315.
-[^بأسلوبه]:يتوافق هذا التفسير مع قوله إن أحد الفصول نصّ كتبه شخص آخر في النصف الأول من القرن العشرين ووجده خالد خليفة « في منزل عائلته » و« أعاد خالد كتابة المصنّفات بأسلوبه » (ص 68).
+[^بأسلوبه]:يتوافق هذا التفسير مع قول الراوي إن أحد الفصول نصّ كتبه شخص آخر في النصف الأول من القرن العشرين ووجده خالد خليفة « في منزل عائلته » و« أعاد خالد كتابة المصنّفات بأسلوبه » (ص 68).
