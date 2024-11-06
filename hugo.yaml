@@ -36,7 +36,13 @@ markup:
           - - $
             - $
         enable: true
-  
+
+ignoreFiles:
+  - \.bib$
+  - \.bib\.md$
+  - \.refs\.md$
+  - Makefile$
+
 # Any key not defined under a languages will fall back to the global value in the root of configuration
 languages:
   en:

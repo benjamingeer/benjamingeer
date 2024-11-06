@@ -63,17 +63,13 @@ The movement's ingenious harmonic development[^Todd_September] is an
 example of how Hensel's work anticipated the avant-garde of the second
 half of the 19th century.[^Manning]
 
-[^Kimber]: Marian Wilson Kimber, [Fanny Hensel's Seasons of Life:
-    Poetic Epigrams, Vignettes, and Meaning in Das
-    Jahr](https://doi.org/10.1080/01411890802384409).
-[^Klein]: Tobias Klein, [Interpretation: An den Mond – Johann Wolfgang
-    von
-    Goethe](https://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-an-den-mond,textbearbeitung,372.html).
-[^Walker]: Alan Walker, *Franz Liszt: The Virtuoso Years, 1811-1847*,
-    Cornell University Press (1987), 234.
-[^Todd_three_hand_technique]: R. Larry Todd, *Fanny Hensel: The Other Mendelssohn*, Oxford
-    University Press (2010), 264, 233.
-[^Todd_September]: Todd, 275–77.
-[^Manning]: Laurence Manning, [Fanny Hensel, compositrice de l’avenir
-    ? Anticipations du langage musical wagnérien dans l’oeuvre pour
-    piano de la maturité de Hensel](https://doi.org/10.7202/1039618ar)
+## Bibliography
+
+{{% include "/content/bibliography/hensel-september.refs.md" %}}
+
+[^Kimber]: Kimber, "Fanny Hensel's Seasons of Life".
+[^Klein]: Klein, "Interpretation: An den Mond".
+[^Walker]: Walker, *Franz Liszt*, 234.
+[^Todd_three_hand_technique]: Todd, *Fanny Hensel*, 264, 233.
+[^Todd_September]: Ibid., 275–77.
+[^Manning]: Manning, "Fanny Hensel, compositrice de l’avenir".
