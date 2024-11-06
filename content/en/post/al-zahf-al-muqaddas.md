@@ -26,4 +26,8 @@ Younis shows that Nasser's authority was based on the idea that only the leader 
 
 Younis continued to develop this analysis in his book نداء الشعب: تاريخ نقدي للإيديولوجيا الناصرية \[*The Call of the People : A Critical History of Nasserist Ideology*\] (754 pages), published in 2012, in which he examines in detail the historical roots of this ideology, along with the institutions and policies that contributed to its spread and evolution from the 1952 coup until Nasser's death in 1970. But *The Sacred March* already makes an important contribution to our understanding of Egyptian nationalism and the similarities between nationalism and religion. In particular, the use of the category ‘prophet’ to analyse the symbolic domination exercised by a dictator perceived as a ‘national hero’, as well as the idea that nationalism implies a deification of the people (or the nation), encourages us to explore a range of tools from the sociology of religion to analyse the social and ideological structure of nationalism, in the Egyptian context and beyond. This would also be an opportunity to look at another god, the ‘homeland’, to which Younis has paid less attention.
 
-[^Geer]: Benjamin Geer, « [Sherif Younis, Al-zahf al-muqaddas: muzaharat al-tanahhi wa-tashakkul ‘ibadat Nasir \[La Marcha Sagrada: las manifestaciones contra la dimisión de Nasser y la formación de su culto\]](https://prismas.unq.edu.ar/OJS/index.php/Prismas/article/view/1350/1803) », *Prismas. Revista de historia intelectual*, vol. 26, no. 2, 2022, 389--370.
+## Bibliography
+
+{{% include "/content/bibliography/al-zahf-al-muqaddas.refs.md" %}}
+
+[^Geer]: Geer, "Sherif Younis, Al-zahf al-muqaddas".
