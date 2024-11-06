@@ -71,5 +71,5 @@ seconde moitié du XIXe siècle.[^Manning]
 [^Klein]: Klein, « Interpretation: An den Mond ».
 [^Walker]: Walker, *Franz Liszt*, 234.
 [^Todd_three_hand_technique]: Todd, *Fanny Hensel*, 264, 233.
-[^Todd_September]: Ibid., 275–77.
+[^Todd_September]: Todd, *Fanny Hensel*, 275–77.
 [^Manning]: Manning, « Fanny Hensel, compositrice de l’avenir ».
