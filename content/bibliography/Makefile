@@ -1,12 +1,16 @@
 .PHONY: all clean
 
-INPUT = $(wildcard *.bib.md)
-OUTPUT = $(patsubst %.bib.md, %.refs.md, $(INPUT))
+INPUT = $(wildcard *.bib)
+BIBMDFILES = $(patsubst %.bib, %.bib.md, $(INPUT))
+REFSMDFILES = $(patsubst %.bib, %.refs.md, $(INPUT))
 
-all: $(OUTPUT)
+all: $(BIBMDFILES) $(REFSMDFILES)
 
-%.refs.md: %.bib.md %.bib
+%.bib.md: %.bib
+	./makebibmd.sh $< > $@
+
+%.refs.md: %.bib.md
 	pandoc -t markdown_strict --citeproc --wrap=none $< -o $@
 
 clean:
-	rm -f $(OUTPUT) *~
+	rm -f $(BIBMDFILES) $(REFSMDFILES)
