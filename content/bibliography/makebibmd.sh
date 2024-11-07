@@ -2,7 +2,7 @@
 
 BIBFILE=$1
 
-cat  << EOF
+cat << EOF
 ---
 bibliography: $BIBFILE
 nocite: '@*'
