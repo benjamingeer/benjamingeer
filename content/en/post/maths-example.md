@@ -10,8 +10,7 @@ draft: true
 
 ## Question
 
-Determine the intervals on which the following function is increasing
-and decreasing:
+Determine the intervals on which the following function is increasing and decreasing:
 
 $$
 f(x) = (x - 1)(x - 2)(x - 3)
@@ -25,8 +24,7 @@ $$
 f(x) = x^3 - 6x^2 + 11x - 6
 $$
 
-Then, to find the critical points, we take the derivative $f'(x)$ and
-solve for $f'(x) = 0$:
+Then, to find the critical points, we take the derivative $f'(x)$ and solve for $f'(x) = 0$:
 
 $$
 f'(x) = 3x^2 - 12x + 11 = 0
@@ -48,9 +46,7 @@ x &= \frac{12 \pm \sqrt{12^2 - 4 \cdot 3 \cdot 11}}{2 \cdot 3} \\
 \end{align}
 $$
 
-So we have two critical points: $2 + 1/\sqrt{3}$ and $2 - 1/\sqrt{3}$.
-By experimenting with values of $f'(x)$ near the critical points, we
-can see that $f(x)$ is decreasing when
+So we have two critical points: $2 + 1/\sqrt{3}$ and $2 - 1/\sqrt{3}$. By experimenting with values of $f'(x)$ near the critical points, we can see that $f(x)$ is decreasing when
 
 $$
 2 - \frac{1}{\sqrt{3}} \leq x \leq 2 + \frac{1}{\sqrt{3}}
