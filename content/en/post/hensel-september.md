@@ -65,7 +65,7 @@ half of the 19th century.[^Manning]
 
 ## Bibliography
 
-{{% include "/content/bibliography/hensel-september.refs.md" %}}
+{{< include "/content/bibliography/hensel-september.refs.md" >}}
 
 [^Kimber]: Kimber, "Fanny Hensel's Seasons of Life".
 [^Klein]: Klein, "Interpretation: An den Mond".

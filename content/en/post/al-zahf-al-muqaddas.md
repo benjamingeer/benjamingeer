@@ -28,6 +28,6 @@ Younis continued to develop this analysis in his book نداء الشعب: تا�
 
 ## Bibliography
 
-{{% include "/content/bibliography/al-zahf-al-muqaddas.refs.md" %}}
+{{< include "/content/bibliography/al-zahf-al-muqaddas.refs.md" >}}
 
 [^Geer]: Geer, "Sherif Younis, Al-zahf al-muqaddas".
