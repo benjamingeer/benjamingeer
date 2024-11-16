@@ -33,7 +33,7 @@ categories:
 
 ## المراجع
 
-{{< include "/content/bibliography/khalid-khalifa.refs.md" >}}
+{{% include "/bibliography/khalid-khalifa.refs.md" %}}
 
 [^Watenpaugh]: Watenpaugh, “Cleansing the Cosmopolitan City”, 9.
 

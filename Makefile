@@ -3,11 +3,11 @@
 all: bibliography svg
 
 bibliography:
-	$(MAKE) -C content/bibliography
+	$(MAKE) -C bibliography
 
 svg:
-	$(MAKE) -C content/svg
+	$(MAKE) -C svg
 
 clean:
-	$(MAKE) -C content/bibliography clean
-	$(MAKE) -C content/svg clean
+	$(MAKE) -C bibliography clean
+	$(MAKE) -C svg clean

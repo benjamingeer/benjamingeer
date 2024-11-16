@@ -16,7 +16,7 @@ all: $(TEX) $(INC) $(PDF) $(SVG)
 
 %.svg: %.pdf
 	pdftocairo $< $@ -svg 
-	cp $@ ../../static/figures
+	cp $@ ../static/figures
 
 clean:
 	rm -f $(TEX) $(INC) $(PDF) $(SVG) *.log *.aux
