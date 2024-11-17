@@ -1,13 +1,13 @@
-.PHONY: all bibliography svg clean
+.PHONY: all bibliography gnuplot-svg clean
 
-all: bibliography svg
+all: bibliography gnuplot-svg
 
 bibliography:
 	$(MAKE) -C bibliography
 
-svg:
-	$(MAKE) -C svg
+gnuplot-svg:
+	$(MAKE) -C gnuplot-svg
 
 clean:
 	$(MAKE) -C bibliography clean
-	$(MAKE) -C svg clean
+	$(MAKE) -C gnuplot-svg clean
