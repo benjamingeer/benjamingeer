@@ -20,3 +20,5 @@ all: $(TEX) $(INC) $(PDF) $(SVG)
 
 clean:
 	rm -f $(TEX) $(INC) $(PDF) $(SVG) *.log *.aux
+	cd ../static/figures && rm -f $(SVG)
+
