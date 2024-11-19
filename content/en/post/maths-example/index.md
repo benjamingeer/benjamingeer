@@ -1,11 +1,11 @@
 ---
+date: 2024-11-18
+draft: true
 title: Maths Example
-date: 2024-11-15
 categories:
   - Tutorials
 tags:
   - Maths
-draft: true
 ---
 
 ## Question
@@ -33,7 +33,8 @@ $$
 Using the quadratic formula, we get
 
 $$
-\begin{align}
+\begin{equation*}
+\begin{split}
 x &= \frac{12 \pm \sqrt{12^2 - 4 \cdot 3 \cdot 11}}{2 \cdot 3} \\
   &= \frac{12 \pm \sqrt{12}}{6} \\
   &= \frac{12}{6} \pm \frac{\sqrt{12}}{6} \\
@@ -43,10 +44,13 @@ x &= \frac{12 \pm \sqrt{12^2 - 4 \cdot 3 \cdot 11}}{2 \cdot 3} \\
   &= 2 \pm 3^{\frac{1}{2}} \cdot 3^{-1} \\
   &= 2 \pm 3^{-\frac{1}{2}} \\
   &= 2 \pm \frac{1}{\sqrt{3}}
-\end{align}
+\end{split}
+\end{equation*}
 $$
 
-So we have two critical points: $2 + 1/\sqrt{3}$ and $2 - 1/\sqrt{3}$. By experimenting with values of $f'(x)$ near the critical points, we can see that $f(x)$ is decreasing when
+So we have two critical points: $2 + 1/\sqrt{3}$ and $2 - 1/\sqrt{3}$.
+
+By experimenting with values of $f'(x)$ near the critical points, we can see that $f(x)$ is decreasing when
 
 $$
 2 - \frac{1}{\sqrt{3}} \leq x \leq 2 + \frac{1}{\sqrt{3}}
@@ -64,4 +68,9 @@ $$
 x \geq 2 + \frac{1}{\sqrt{3}}
 $$
 
-{{< figure file="test-curve.svg" caption="The graph of $f(x)$" >}}
+
+
+    
+![svg](index_files/index_2_0.svg)
+    
+
