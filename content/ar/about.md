@@ -8,8 +8,10 @@ date: 2024-09-20
 
 عنوان البريد الإلكتروني الخاص بي: [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
 
-على ماستدون: [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
+على ماستدون {{< ico vendor=simple name=mastodon color=#6364FF >}}: [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
 
+ على بلوسكاي {{< ico vendor=simple name=bluesky color=#0285FF >}}: [@benjamingeer.bsky.social](https://benjamingeer.bsky.social)
+ 
 ## مطبوعاتي
 
 يمكن الحصول على كل مطبوعاتي عن طريق الوصول الحر عبر الروابط الموجودة على [صفحة الـORCID الخاص بي](https://orcid.org/0000-0002-2449-8558).

@@ -7,9 +7,11 @@ I'm a software developer and ex-academic (sociology, conceptual history, cogniti
 
 ## Contact information
 
-Email address: [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
+Email: [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
 
-Mastodon: [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
+Mastodon {{< ico vendor=simple name=mastodon color=#6364FF >}}: [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
+
+Bluesky {{< ico vendor=simple name=bluesky color=#0285FF >}}: [@benjamingeer.bsky.social](https://benjamingeer.bsky.social)
 
 ## Academic work
 
