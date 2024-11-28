@@ -5,7 +5,7 @@ date: 2024-09-20
 
 Je suis développeur de logiciels et ancien universitaire (sociologie, histoire conceptuelle, linguistique cognitive, culture arabe, humanités numériques).
 
-Voici un court essai, écrit en anglais en 2018, sur ma vie professionnelle: [An Accidental Career](https://medium.com/sci-five-university-of-basel/an-accidental-career-d09ca45de21a).
+Voici un court essai, écrit en anglais en 2018, sur ma vie professionnelle : [An Accidental Career](https://medium.com/sci-five-university-of-basel/an-accidental-career-d09ca45de21a).
 
 ## Contact
 
