@@ -11,7 +11,7 @@ Mail : [ben@benjamingeer.name](mailto:ben@benjamingeer.name)
 
 Mastodon {{< ico vendor=simple name=mastodon color=#6364FF >}} : [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
 
-Bluesky {{< ico vendor=simple name=bluesky color=#0285FF >}} : [@benjamingeer.bsky.social](https://benjamingeer.bsky.social)
+Bluesky {{< ico vendor=simple name=bluesky color=#0285FF >}} : [@benjamingeer.name](https://bsky.app/profile/benjamingeer.name)
 
 ## Travaux de recherche
 

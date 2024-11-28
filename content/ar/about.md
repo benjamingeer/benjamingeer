@@ -10,7 +10,7 @@ date: 2024-09-20
 
 على ماستدون {{< ico vendor=simple name=mastodon color=#6364FF >}}: [@benjamingeer@piaille.fr](https://piaille.fr/@benjamingeer)
 
- على بلوسكاي {{< ico vendor=simple name=bluesky color=#0285FF >}}: [@benjamingeer.bsky.social](https://benjamingeer.bsky.social)
+ على بلوسكاي {{< ico vendor=simple name=bluesky color=#0285FF >}}: [@benjamingeer.name](https://bsky.app/profile/benjamingeer.name)
  
 ## مطبوعاتي
 
