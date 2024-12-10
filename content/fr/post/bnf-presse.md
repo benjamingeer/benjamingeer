@@ -13,6 +13,7 @@ Beaucoup de titres de presse sont réservés aux abonnés et les abonnements peu
 - [*Le Monde*](https://www.lemonde.fr/)
 - [*Libération*](https://www.liberation.fr/)
 - [*Le Monde diplomatique*](https://www.monde-diplomatique.fr/)
+- [*Courrier international*](https://www.courrierinternational.com/)
 - [*Arrêt sur images*](https://www.arretsurimages.net/)
 - [*The New York Times*](https://www.nytimes.com/)
 - [*The Wall Street Journal*](https://www.wsj.com/)
@@ -41,16 +42,18 @@ Le cas de *The New York Times* est un peu différent. Quand vous visitez [easyBn
 
 ### Lecture au format PDF sur Europresse
 
-C'est possible uniquement pour deux titres :
+C'est possible pour certains titres, y compris :
 
+- *Courrier International*
 - *Le Monde*
 - *Le monde diplomatique*
+- *Libération*
 
 Le mode d'emploi :
 
 1. Identifiez-vous dans votre [Espace personnel BnF](https://espacepersonnel.bnf.fr/).
 2. Visitez [easyBnF](https://easybnf.fr/) et cliquez sur Europresse.
-3. Cliquez sur **Publications PDF** et choisir la publication voulue.
+3. Cliquez sur **Publications PDF** et cherchez le titre voulu.
 
 ### Lecture sur le site d'Europresse
 
