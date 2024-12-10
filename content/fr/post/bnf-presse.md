@@ -5,6 +5,7 @@ categories:
   - Tutoriels
 tags:
   - Informatique
+lastmod: 2024-12-10
 ---
 Beaucoup de titres de presse sont réservés aux abonnés et les abonnements peuvent coûter cher. Pour s'informer à moindre coût, on peut acheter un [Pass Lecture/Culture](https://inscriptionbilletterie.bnf.fr/accueil) de la [Bibliothèque nationale de France](https://www.bnf.fr). Le prix est actuellement 24 € par an, ou 15 € au tarif réduit. Ce pass donne accès à un grand nombre de titres du monde entier, y compris :
 
