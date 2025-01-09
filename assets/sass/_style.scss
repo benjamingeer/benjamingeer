@@ -9,6 +9,11 @@
   word-break: break-word;
 }
 
+// BG fix
+.body:lang(ar) {
+  font-size: 110%;
+}
+
 .toc {
   margin-block: 1rem;
 
