@@ -4,7 +4,7 @@ date: 2024-09-20
 ---
 أنا مطور برمجيات وباحث سابق (في علم الاجتماع، والتاريخ المفاهيمي، واللغويات المعرفية، والثقافة العربية، والإنسانيات الرقمية).
 
-إليكم مقال قصير، كتبته بالإنكليزية في عام 2018، عن حياتي المهنية: [An Accidental Career](https://medium.com/sci-five-university-of-basel/an-accidental-career-d09ca45de21a).
+إليكم مقال قصير، كتبته بالإنجليزية في عام 2018، عن حياتي المهنية: [An Accidental Career](https://medium.com/sci-five-university-of-basel/an-accidental-career-d09ca45de21a).
 
 ## للاتصال بي
 

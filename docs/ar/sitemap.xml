@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://benjamingeer.name/ar/post/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -20,26 +20,11 @@
                 href="https://benjamingeer.name/ar/post/"
                 />
   </url><url>
-    <loc>https://benjamingeer.name/ar/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://benjamingeer.name/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://benjamingeer.name/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://benjamingeer.name/ar/"
-                />
+    <loc>https://benjamingeer.name/ar/tags/%D8%A3%D8%AF%D8%A8/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/ar/categories/</loc>
-    <lastmod>2024-09-20T15:00:00+00:00</lastmod>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -57,7 +42,7 @@
                 />
   </url><url>
     <loc>https://benjamingeer.name/ar/tags/</loc>
-    <lastmod>2024-09-20T15:00:00+00:00</lastmod>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -73,6 +58,45 @@
                 hreflang="ar"
                 href="https://benjamingeer.name/ar/tags/"
                 />
+  </url><url>
+    <loc>https://benjamingeer.name/ar/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/ar/post/on-the-greenwich-line/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/post/on-the-greenwich-line/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/post/on-the-greenwich-line/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://benjamingeer.name/ar/post/on-the-greenwich-line/"
+                />
+  </url><url>
+    <loc>https://benjamingeer.name/ar/categories/%D9%86%D9%82%D8%AF/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/ar/tags/%D8%A8%D9%8A%D8%A6%D8%A9/</loc>
     <lastmod>2024-09-20T15:00:00+00:00</lastmod>
