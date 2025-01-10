@@ -1,5 +1,5 @@
 ---
-title: "Recension : Sherif Younis, La marche sacrée"
+title: Sherif Younis, La marche sacrée
 date: 2024-09-26
 categories:
   - Recensions
