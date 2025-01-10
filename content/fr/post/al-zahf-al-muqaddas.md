@@ -2,7 +2,7 @@
 title: Sherif Younis, La marche sacrée
 date: 2024-09-26
 categories:
-  - Recensions
+  - Articles
 tags:
   - Sociologie
   - Histoire

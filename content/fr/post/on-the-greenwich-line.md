@@ -2,7 +2,7 @@
 title: Shady Lewis, Sur le méridien de Greenwich
 date: 2025-01-10
 categories:
-  - Recensions
+  - Articles
 tags:
   - Litérature
 ---

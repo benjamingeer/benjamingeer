@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://benjamingeer.name/en/categories/articles/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://benjamingeer.name/fr/categories/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://benjamingeer.name/en/categories/articles/"
+                />
+  </url><url>
     <loc>https://benjamingeer.name/en/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -58,9 +71,6 @@
                 hreflang="en-GB"
                 href="https://benjamingeer.name/en/post/"
                 />
-  </url><url>
-    <loc>https://benjamingeer.name/en/categories/reviews/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benjamingeer.name/en/post/on-the-greenwich-line/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>

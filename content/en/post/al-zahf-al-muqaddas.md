@@ -2,7 +2,7 @@
 title: Sherif Younis, The Sacred March
 date: 2024-09-26
 categories:
-  - Reviews
+  - Articles
 tags:
   - Sociology
   - History

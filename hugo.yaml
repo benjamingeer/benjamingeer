@@ -65,8 +65,8 @@ languages:
         - name: Music
           pageRef: /categories/music
           weight: 30
-        - name: Reviews
-          pageRef: /categories/reviews
+        - name: Articles
+          pageRef: /categories/articles
           weight: 40
         - name: Tutorials
           pageRef: /categories/tutorials
@@ -97,8 +97,8 @@ languages:
         - name: Musique
           pageRef: /categories/musique
           weight: 30
-        - name: Recensions
-          pageRef: /categories/recensions
+        - name: Articles
+          pageRef: /categories/articles
           weight: 40
         - name: Tutoriels
           pageRef: /categories/tutoriels
@@ -127,9 +127,9 @@ languages:
         - name: المشاريع
           pageRef: /categories/مشاريع
           weight: 30
-        # - name: مقالات
-        #   pageRef: /categories/مقالات
-        #   weight: 40
+        - name: المقالات
+          pageRef: /categories/مقالات
+          weight: 40
         - name: الوسوم
           pageRef: /tags
           weight: 50

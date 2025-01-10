@@ -2,7 +2,7 @@
 title: Shady Lewis, On the Greenwich Line
 date: 2025-01-10
 categories:
-  - Reviews
+  - Articles
 tags:
   - Literature
 ---
