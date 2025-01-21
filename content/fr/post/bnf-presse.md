@@ -45,7 +45,7 @@ Le cas de *The New York Times* est un peu différent. Quand vous visitez [easyBn
 
 C'est possible pour certains titres, y compris :
 
-- *Courrier International*
+- *Courrier international*
 - *Le Monde*
 - *Le Monde diplomatique*
 - *Libération*
