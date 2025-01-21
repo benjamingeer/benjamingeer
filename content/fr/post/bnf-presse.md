@@ -47,7 +47,7 @@ C'est possible pour certains titres, y compris :
 
 - *Courrier International*
 - *Le Monde*
-- *Le monde diplomatique*
+- *Le Monde diplomatique*
 - *Libération*
 
 Le mode d'emploi :
