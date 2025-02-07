@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "c85adc25fc8cca8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb1ffe477e994e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdcf880dbd1f61b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/ar/post/on-the-greenwich-line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "on-the-greenwich-line"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1f6003d5f33b7d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d9dd99c6be7403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34ec7c1d3816601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5a70100de7e8830",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1469ea0b5e46c3e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "502fd8fdf905c6d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfee54d9bb8b069f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d25a670420a45c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/ar/post/khalid-khalifa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for khalid-khalifa"
+            }
+          },
+          {
+            "id": "7a57d0921e5ed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/ar/post/khalid-khalifa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from khalid-khalifa"
+            }
+          },
+          {
+            "id": "8edadc19924cee03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20025799491ceb67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/ar/post/khalid-khalifa.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of khalid-khalifa"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cdcf880dbd1f61b3",
+  "lastOpenFiles": [
+    "public/ar/categories/index.xml",
+    "public/ar/about/index.html",
+    "public/ar/about",
+    "public/ar/post/socioresources/index.html",
+    "public/ar/post/socioresources",
+    "public/ar/sitemap.xml",
+    "public/ar/categories/index.html",
+    "public/ar/post/page/1/index.html",
+    "public/ar/post/page/1",
+    "public/ar/tags/بيئة/index.xml",
+    "public/ar/tags/بيئة/index.html",
+    "content/fr/post/on-the-greenwich-line.md",
+    "content/en/post/on-the-greenwich-line.md",
+    "content/en/post/kawkabna.md",
+    "content/ar/post/on-the-greenwich-line.md",
+    "content/fr/post/al-zahf-al-muqaddas.md",
+    "content/en/post/al-zahf-al-muqaddas.md",
+    "content/ar/about.md",
+    "content/ar/post/khalid-khalifa.md",
+    "content/ar/post/kawkabna.md",
+    "content/ar/post/socioresources.md",
+    "content/fr/post/bnf-presse.md",
+    "public/figures/test-curve.svg",
+    "content/ar/post/khalid-khalifa/_index.md",
+    "content/bibliography/hensel-september.refs.md",
+    "content/bibliography/hensel-september.bib.md",
+    "content/en/post/hensel-september.md",
+    "content/en/post/hensel-september/hensel-september.md",
+    "content/ar/post/khalid-khalifa/khalid-khalifa.md",
+    "content/bibliography/khalid-khalifa.refs.md",
+    "content/bibliography/khalid-khalifa.bib.md",
+    "content/en/post/hensel-september/_index.md",
+    "content/ar/post/khalid-khalifa/khalid-khalifa.refs.md",
+    "content/ar/post/khalid-khalifa/khalid-khalifa.bib.md",
+    "content/ar/post/khalid-khalifa/bibliography.md",
+    "content/ar/post/khalid-khalifa/refs.md",
+    "content/ar/post/khalid-khalifa/bibliography.bib.md"
+  ]
+}
