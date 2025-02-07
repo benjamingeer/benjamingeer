@@ -1,1 +1,1 @@
-Senior Software Engineer at [Zendesk](https://www.zendesk.com/).
+Software developer and ex-academic. Blog at http://benjamingeer.name.
