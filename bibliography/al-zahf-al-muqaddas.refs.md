@@ -1,1 +1,0 @@
-Geer, Benjamin. 2022. “Sherif Younis, Al-zahf al-muqaddas: muzaharat al-tanahhi wa-tashakkul ‘ibadat Nasir \[La Marcha Sagrada: las manifestaciones contra la dimisión de Nasser y la formación de su culto\].” *Prismas. Revista de historia intelectual* 26 (2): 369–70. <https://doi.org/10.48160/18520499prismas26.1350>.
