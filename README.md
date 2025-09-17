@@ -1,1 +1,1 @@
-Software developer and ex-academic. You can find more of my projects on [my Codeberg profile](https://codeberg.org/benjamingeer) and on [my blog](https://benjamingeer.name/en/).
+Software developer and ex-academic. You can my current projects are on [Codeberg](https://codeberg.org/benjamingeer) and on [my blog](https://benjamingeer.name/en/).
